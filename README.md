@@ -99,11 +99,24 @@ Tabla 2.  Medición de corriente aplicando superposición
 |      Medido        |           25.5 mA    |            0 A          |          25 mA         |
 
 ## 7. CRONOGRAMA
+![0041](https://user-images.githubusercontent.com/66037557/86209632-9f190080-bb38-11ea-8124-2261b92d44ac.png)
+
 
 
 ## 8.CONCLUSIONES
+El Teorema de Superposición es una técnica que nos puede resultar práctica cuando tenemos circuitos varias fuentes de voltaje o corriente en un mismo circuito, pues nos simplifica el circuito, facilitando los calculos.
 
+Se comprobó experimentalmente que en el circuito propuesto cumple con el Teorema de Superposición. A través de la comparación de los resultados obtenidos en la simulación y en los cálculos donde se obtuvo un error de .
+
+Se comprobó que la Ix=0 cuando cortociruitamos la fuente de 12V debido a que el voltaje tiende a 0 y por tanto la Ix también tiende 0.
 ## 9.RECOMENDACIONES
+Se debe tomar en cuenta que cuando simulemos un circuito en el laboratorio virtual, tenemos que apagar la fuente de voltaje, más no asignarle el valor de "cero", ya que nuestros resultados pueden variar notablemente, lo que provocaría un error extremadamente grande.
+
+Al tener bien definido el concepto de superposición y los conceptos de las leyes más básicas, se nos facilitará realizar con mejor autonomía la práctica e identificar los errores de por medio que se pueden presentar.
+
+Es necesario verificar los valores que asignamos a las fuentes de voltaje como a resistencias, ya que se suele cometer errores con las unidades de medida, de igual forma que la conexión esté bien hecha para que las mediciones sean lo más exactas posibles.
+
+Para la obtención de medidas de corrientes y voltajes, debemos realizar bien la conexión de nuestro multímetro, es decir, ser estricto en cuanto a la conexión del positivo y negativo ya que si no lo colocamos bien, probablemente obtengamos resultados diferentes a los solicitados, que pueden afectar a cálculos secundarios.
 
 -
 ## 10. BIBLIOGRAFÍA
