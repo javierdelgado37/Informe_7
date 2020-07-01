@@ -38,7 +38,7 @@ A. Fuente de Voltaje de C.D.
 
 B. Multímetro Digital
 
-![chrome_1E7H2m0GOE](https://user-images.githubusercontent.com/66037763/84236069-a6f6ff00-aabc-11ea-90f8-49d128847e17.png)
+![chrome_VDgV5hnKS3](https://user-images.githubusercontent.com/66037763/86204314-d2ee2900-bb2c-11ea-95d4-7b89629b4c4c.png)
 
 
 C. Resistor de 1 kΩ
