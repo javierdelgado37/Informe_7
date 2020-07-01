@@ -9,15 +9,15 @@ Es importante contar con diferentes herramientas que nos sirvan para la resoluci
 ## 2. OBJETIVOS
 GENERAL
 
-Comprobar experimentalmente el Teorema de Superposición.
+- Comprobar experimentalmente el Teorema de Superposición.
 
 ESPECIFICOS
 
-Armar el circuito indicado en el programa TinkerCad.
+- Armar el circuito indicado en el programa TinkerCad.
 
-Medir y calcular el voltaje y corriente indicado en la guia.
+- Medir y calcular el voltaje y corriente indicado en la guia.
 
-Determinar el error en las mediciones.
+- Determinar el error en las mediciones.
 
 
 ## 3. MARCO TEÓRICO 
