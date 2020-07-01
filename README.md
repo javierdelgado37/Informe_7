@@ -27,6 +27,8 @@ Pasos para aplicar el principio de superposición:
 
 ## 4. DIAGRAMAS
 
+![chrome_rwenS5IKRn](https://user-images.githubusercontent.com/66037763/86203161-ea77e280-bb29-11ea-8777-ae63bd163266.png)
+
 ## 5. LISTA DE COMPONENTES
 
 ## 6. DESCRIPCION DE PREREQUISITOS Y CONFIGURACION
