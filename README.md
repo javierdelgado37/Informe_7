@@ -106,7 +106,7 @@ Tabla 2.  Medición de corriente aplicando superposición
 ## 8.CONCLUSIONES
 -El Teorema de Superposición es una técnica que nos puede resultar práctica cuando tenemos circuitos varias fuentes de voltaje o corriente en un mismo circuito, pues nos simplifica el circuito, facilitando los calculos.
 
--Se comprobó que las sumas de los voltajes correspondientes a la resistencia de 820ohms de cada circuito simplificado es igual al voltaje en esa resistencia del circuito inicial, algebraicamente se tiene que el V= 7,50-6,53.
+-Se comprobó que las sumas de los voltajes correspondientes a la resistencia de 820ohms de cada circuito simplificado es igual al voltaje en esa resistencia del circuito inicial, algebraicamente se tiene que el V= 7,48-6,53 = 0.95v.
 
 -Se comprobó experimentalmente que en el circuito propuesto cumple con el Teorema de Superposición. A través de la comparación de los resultados obtenidos en la simulación y en  los cálculos donde se obtuvo un error de .
 
