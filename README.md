@@ -56,13 +56,13 @@ D. Resistor de 2.2 kΩ
 E. Resistor de 820 Ω
 
 
-![chrome_jPVmQCB5dn](https://user-images.githubusercontent.com/66037763/84236149-cbeb7200-aabc-11ea-96d9-4b01e8f8ef81.png)
+![chrome_i2Yob2vsmi](https://user-images.githubusercontent.com/66037763/86204372-f6b16f00-bb2c-11ea-8486-014eb547b11f.png)
 
 
 F. Resistor de 470 Ω
 
 
-![chrome_RgP3H68Ui2](https://user-images.githubusercontent.com/66037763/84236162-d60d7080-aabc-11ea-864d-536485900f86.png)
+![chrome_qyYohEcMxn](https://user-images.githubusercontent.com/66037763/86204405-09c43f00-bb2d-11ea-972d-91ed7bde2ee1.png)
 
 
 H. Protoboard
