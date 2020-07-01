@@ -32,8 +32,8 @@ Pasos para aplicar el principio de superposición:
 ## 6. DESCRIPCION DE PREREQUISITOS Y CONFIGURACION
 | Voltaje Total (VA) | Voltaje (VA) | Votaje (VA) |
 |         ---        |     ---      |     ---     |
-|     Calculado    |      Medido    |    Calculado  |  Medido    |   Calculado   |   Medido   |
-
+|     Calculado      |              |             | 
+|      Medido        |              |             |
 
 ## 7. CRONOGRAMA
 
