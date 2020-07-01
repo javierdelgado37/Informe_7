@@ -44,7 +44,7 @@ B. Multímetro Digital
 C. Resistor de 1 kΩ
 
 
-![chrome_H59RekD0Sn](https://user-images.githubusercontent.com/66037763/84236097-b4ac8480-aabc-11ea-88e9-0930cd8a6151.png)
+![chrome_gxIw13c1Q1](https://user-images.githubusercontent.com/66037763/86204259-aafec580-bb2c-11ea-9077-c7547372cc76.png)
 
 
 D. Resistor de 2.2 kΩ
