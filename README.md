@@ -90,13 +90,13 @@ Tabla 1.  Medición de voltaje aplicando superposición
 |                    | Voltaje Total (VA) | Voltaje (VA) [V2 = 0] | Votaje (VA) [V1 = 0] |
 |           ---      |         ---        |     ---               |     ---              |
 |     Calculado      |                    |                       |                      | 
-|      Medido        |                    |                       |                      |
+|      Medido        |      952 mV        |         7.48 V        |          -6.53 V     |
 
 Tabla 2.  Medición de corriente aplicando superposición
 |                    | Corriente Total (Ix) | Corriente (Ix) [V2 = 0] | Corriente (Ix) [V1 = 0]|
 |           ---      |         ---          |                ---      |                ---     |
 |     Calculado      |                      |                         |                        | 
-|      Medido        |                      |                         |                        |
+|      Medido        |           25.5 mA    |            0 A          |          25 mA         |
 
 ## 7. CRONOGRAMA
 
