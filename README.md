@@ -41,33 +41,28 @@ B. Multímetro Digital
 ![chrome_1E7H2m0GOE](https://user-images.githubusercontent.com/66037763/84236069-a6f6ff00-aabc-11ea-90f8-49d128847e17.png)
 
 
-C. Resistor de 820 Ω
+C. Resistor de 1 kΩ
 
 
 ![chrome_H59RekD0Sn](https://user-images.githubusercontent.com/66037763/84236097-b4ac8480-aabc-11ea-88e9-0930cd8a6151.png)
 
 
-D. Resistor de 390 Ω
+D. Resistor de 2.2 kΩ
 
 
-![chrome_nYj42XTcAA](https://user-images.githubusercontent.com/66037763/84236121-bc6c2900-aabc-11ea-9052-20d1e126c649.png)
+![chrome_u6waqAZiNN](https://user-images.githubusercontent.com/66037763/84236192-e0c80580-aabc-11ea-9767-487481f78259.png)
 
 
-E. Resistor de 1 kΩ
+E. Resistor de 820 Ω
 
 
 ![chrome_jPVmQCB5dn](https://user-images.githubusercontent.com/66037763/84236149-cbeb7200-aabc-11ea-96d9-4b01e8f8ef81.png)
 
 
-F. Resistor de 1.2 kΩ
+F. Resistor de 470 Ω
 
 
 ![chrome_RgP3H68Ui2](https://user-images.githubusercontent.com/66037763/84236162-d60d7080-aabc-11ea-864d-536485900f86.png)
-
-
-G. Resistor de 2.2 kΩ
-
-![chrome_u6waqAZiNN](https://user-images.githubusercontent.com/66037763/84236192-e0c80580-aabc-11ea-9767-487481f78259.png)
 
 
 H. Protoboard
