@@ -104,20 +104,20 @@ Tabla 2.  Medición de corriente aplicando superposición
 
 
 ## 8.CONCLUSIONES
-El Teorema de Superposición es una técnica que nos puede resultar práctica cuando tenemos circuitos varias fuentes de voltaje o corriente en un mismo circuito, pues nos simplifica el circuito, facilitando los calculos.
+-El Teorema de Superposición es una técnica que nos puede resultar práctica cuando tenemos circuitos varias fuentes de voltaje o corriente en un mismo circuito, pues nos simplifica el circuito, facilitando los calculos.
 
-Se comprobó que las sumas de los voltajes correspondientes a la resistencia de 820ohms de cada circuito simplificado es igual al voltaje en esa resistencia del circuito inicial, algebraicamente se tiene que el V= 7,50-6,53.
+-Se comprobó que las sumas de los voltajes correspondientes a la resistencia de 820ohms de cada circuito simplificado es igual al voltaje en esa resistencia del circuito inicial, algebraicamente se tiene que el V= 7,50-6,53.
 
-Se comprobó experimentalmente que en el circuito propuesto cumple con el Teorema de Superposición. A través de la comparación de los resultados obtenidos en la simulación y en los cálculos donde se obtuvo un error de .
+-Se comprobó experimentalmente que en el circuito propuesto cumple con el Teorema de Superposición. A través de la comparación de los resultados obtenidos en la simulación y en  los cálculos donde se obtuvo un error de .
 
-Se comprobó que la Ix=0 cuando cortociruitamos la fuente de 12V debido a que el voltaje tiende a 0 y por tanto la Ix también tiende 0.
+-Se comprobó que la Ix=0 cuando cortociruitamos la fuente de 12V debido a que el voltaje tiende a 0 y por tanto la Ix también tiende 0.
 ## 9.RECOMENDACIONES
 
-Se debe tener en cuenta que cuando cortocircuitamos la fuente 2, esta puede influye en la intensidad provocando que Ix=0 .
+-Se debe tener en cuenta que cuando cortocircuitamos la fuente 2, esta puede influye en la intensidad provocando que Ix=0 .
 
-Armar el circuito de una forma didáctica para que todos puedan entender el funcionamiento del mismo.
+-Armar el circuito de una forma didáctica para que todos puedan entender el funcionamiento del mismo.
 
-Hacer las respectivas mediciones con cuidado para no obtener datos errónes y que esto no afecte nuestra practica.
+-Hacer las respectivas mediciones con cuidado para no obtener datos errónes y que esto no afecte nuestra practica.
 
 
 
