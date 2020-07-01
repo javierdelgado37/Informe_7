@@ -89,14 +89,14 @@ H. Protoboard
 Tabla 1.  Medición de voltaje aplicando superposición
 |                    | Voltaje Total (VA) | Voltaje (VA) [V2 = 0] | Votaje (VA) [V1 = 0] |
 |           ---      |         ---        |     ---               |     ---              |
-|     Calculado      |                    |                       |                      | 
-|      Medido        |      952 mV        |         7.48 V        |          -6.53 V     |
+|     Calculado      |      951.9 mV      |         7.479 V       |       -6.527 V       | 
+|      Medido        |      952 mV        |         7.480 V       |       -6.530 V       |
 
 Tabla 2.  Medición de corriente aplicando superposición
 |                    | Corriente Total (Ix) | Corriente (Ix) [V2 = 0] | Corriente (Ix) [V1 = 0]|
 |           ---      |         ---          |                ---      |                ---     |
-|     Calculado      |                      |                         |                        | 
-|      Medido        |           25.5 mA    |            0 A          |          25 mA         |
+|     Calculado      |       25.53 mA       |            0 A          |          25.53 mA      | 
+|      Medido        |       25.50 mA       |            0 A          |          25.50 mA      |
 
 ## 7. CRONOGRAMA
 ![0041](https://user-images.githubusercontent.com/66037557/86209632-9f190080-bb38-11ea-8124-2261b92d44ac.png)
@@ -108,7 +108,7 @@ Tabla 2.  Medición de corriente aplicando superposición
 
 -Se comprobó que las sumas de los voltajes correspondientes a la resistencia de 820ohms de cada circuito simplificado es igual al voltaje en esa resistencia del circuito inicial, algebraicamente se tiene que el V= 7,48-6,53 = 0.95v.
 
--Se comprobó experimentalmente que en el circuito propuesto cumple con el Teorema de Superposición. A través de la comparación de los resultados obtenidos en la simulación y en  los cálculos donde se obtuvo un error de .
+-Se comprobó experimentalmente que en el circuito propuesto cumple con el Teorema de Superposición. A través de la comparación de los resultados obtenidos en la simulación y en  los cálculos donde se obtuvo un error de -0.010505% respecto al Voltaje Total y 0.1175% respecto a la Corriente que pasa por el resistor de 470 ohm.
 
 -Se comprobó que la Ix=0 cuando cortociruitamos la fuente de 12V debido a que el voltaje tiende a 0 y por tanto la Ix también tiende 0.
 ## 9.RECOMENDACIONES
