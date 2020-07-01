@@ -27,7 +27,22 @@ Pasos para aplicar el principio de superposición:
 
 ## 4. DIAGRAMAS
 
+
+
 ![chrome_rwenS5IKRn](https://user-images.githubusercontent.com/66037763/86203161-ea77e280-bb29-11ea-8777-ae63bd163266.png)
+
+
+
+El circuito base que nos enseña como están posicionados los componentes eléctricos para el respectivo ensamblaje del circuito en el protoboard. 
+
+
+
+![CircuitoSuperposición](https://user-images.githubusercontent.com/66037763/86204933-5a886780-bb2e-11ea-9f76-262823f08566.png)
+
+
+
+Podemos identificar el número de fuentes que tiene el circuito (2 en total, una en cada extremo) en las cuales se aplicará el método de superposición para 
+encontrar el voltaje (VA) y la corriente (Ix) de una manera mas sencilla que en un análisis de mallas.
 
 ## 5. LISTA DE COMPONENTES
 A. Fuente de Voltaje de C.D.
