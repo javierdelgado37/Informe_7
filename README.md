@@ -30,10 +30,17 @@ Pasos para aplicar el principio de superposición:
 ## 5. LISTA DE COMPONENTES
 
 ## 6. DESCRIPCION DE PREREQUISITOS Y CONFIGURACION
-|                    | Voltaje Total (VA) | Voltaje (VA) | Votaje (VA) |
-|           ---      |         ---        |     ---      |     ---     |
-|     Calculado      |                    |              |             | 
-|      Medido        |                    |              |             |
+Tabla 1.  Medición de voltaje aplicando superposición
+|                    | Voltaje Total (VA) | Voltaje (VA) [V2 = 0] | Votaje (VA) [V1 = 0] |
+|           ---      |         ---        |     ---               |     ---              |
+|     Calculado      |                    |                       |                      | 
+|      Medido        |                    |                       |                      |
+
+Tabla 2.  Medición de corriente aplicando superposición
+|                    | Corriente Total (Ix) | Corriente (Ix) [V2 = 0] | Corriente (Ix) [V1 = 0]|
+|           ---      |         ---          |                ---      |                ---     |
+|     Calculado      |                      |                         |                        | 
+|      Medido        |                      |                         |                        |
 
 ## 7. CRONOGRAMA
 
