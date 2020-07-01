@@ -8,9 +8,11 @@ AUTORES: DAVID HINOJOSA,
 Es importante contar con diferentes herramientas que nos sirvan para la resolucion de circuitos, previamente se estudio el analisis de mallas para obtener la corriente de una malla, el analisis de nodos para obtener el voltaje de un nodo y esta vez es el turno de la superposicion. Este metodo puede simplificar en gran medida los calculos que se realizan al analizar un circuito y nos sirve para obtener la corriente o tambien el voltaje, dependiendo de lo que se requiera.
 ## 2. OBJETIVOS
 GENERAL
+
 Comprobar experimentalmente el Teorema de Superposición.
 
 ESPECIFICOS
+
 Armar el circuito indicado en el programa TinkerCad.
 
 Medir y calcular el voltaje y corriente indicado en la guia.
