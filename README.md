@@ -23,7 +23,7 @@ ESPECÍFICOS
 ## 3. MARCO TEÓRICO 
 Si un circuito tiene dos o más fuentes independientes, una forma de determinar el valor de una variable específica (tensión o corriente) es determinar la contribución de cada fuente independiente a la variable y después sumarlas. Este último método se conoce como superposición. Sadiku (2004) dice:
 
-El principio de superposición establece que la tensión entre los extremos (o la corriente a través) de un elemento en un circuito lineal es la suma algebraica de las tensiones (o corrientes) a través de ese elemento debido a que cada fuente independiente actúa sola.(p.130)
+El principio de superposición establece que la tensión entre los extremos (o la corriente a través) de un elemento en un circuito lineal es la suma algebraica de las tensiones (o corrientes) a través de ese elemento debido a que cada fuente independiente actúa sola. (p.130)
 
 El principio de superposición ayuda a analizar un circuito lineal con más de una fuente independiente, mediante el cálculo de la contribución de cada fuente independiente por separado. 
 
