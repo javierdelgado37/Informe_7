@@ -11,7 +11,7 @@ GENERAL
 
 - Comprobar experimentalmente el Teorema de Superposición.
 
-ESPECIFICOS
+ESPECÍFICOS
 
 - Armar el circuito indicado en el programa TinkerCad.
 
@@ -21,7 +21,7 @@ ESPECIFICOS
 
 
 ## 3. MARCO TEÓRICO 
-Si un circuito tiene dos o más fuentes independientes, una forma de determinar el valor de una variable específica (tensión o corriente) es determinar la contribución de cada fuente independiente a la variable y después sumarlas. Este último método se conoce como superposición. 
+Si un circuito tiene dos o más fuentes independientes, una forma de determinar el valor de una variable específica (tensión o corriente) es determinar la contribución de cada fuente independiente a la variable y después sumarlas. Este último método se conoce como superposición. Sadiku (2004) dice:
 
 El principio de superposición establece que la tensión entre los extremos (o la corriente a través) de un elemento en un circuito lineal es la suma algebraica de las tensiones (o corrientes) a través de ese elemento debido a que cada fuente independiente actúa sola.
 
