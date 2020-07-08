@@ -115,7 +115,7 @@ En las tablas 1 y 2 se puede comprobar claramente que las magnitudes de voltajes
 
 
 
-## 8.CONCLUSIONES
+## 8. CONCLUSIONES
 -Se comprobó que elTeorema de Superposición es una técnica que nos permite simplificar el análisis matemático de circuitos lineal que poseen varias fuentes de voltaje o corriente.
 
 -Se comprobó que las sumas de los voltajes correspondientes a la resistencia de 820 ohms de cada circuito simplificado es igual al voltaje en esa resistencia del circuito inicial. Por lo tanto se obtuvo que el V= 7,48-6,53 = 0.95v.
@@ -123,7 +123,7 @@ En las tablas 1 y 2 se puede comprobar claramente que las magnitudes de voltajes
 -Se comprobó experimentalmente que en el circuito propuesto cumple con el Teorema de Superposición. A través de la comparación de los resultados obtenidos en la simulación y en  los cálculos donde se obtuvo un error de -0.010505% respecto al Voltaje Total y 0.1175% respecto a la Corriente que pasa por el resistor de 470 ohm.
 
 -Se comprobó que la Ix=0 cuando cortociruitamos la fuente de 12V debido a que el voltaje tiende a 0 y por tanto la Ix también tiende 0.
-## 9.RECOMENDACIONES
+## 9. RECOMENDACIONES
 
 -Se debe tener en cuenta que cuando cortocircuitamos la fuente 2, esta puede influye en la intensidad provocando que Ix=0 .
 
