@@ -116,9 +116,9 @@ En las tablas 1 y 2 se puede comprobar claramente que las magnitudes de voltajes
 
 
 ## 8.CONCLUSIONES
--El Teorema de Superposición es una técnica que nos puede resultar práctica cuando tenemos circuitos varias fuentes de voltaje o corriente en un mismo circuito, pues nos simplifica el circuito, facilitando los calculos.
+-Se comprobó que elTeorema de Superposición es una técnica que nos permite simplificar el análisis matemático de circuitos lineal que poseen varias fuentes de voltaje o corriente.
 
--Se comprobó que las sumas de los voltajes correspondientes a la resistencia de 820ohms de cada circuito simplificado es igual al voltaje en esa resistencia del circuito inicial, algebraicamente se tiene que el V= 7,48-6,53 = 0.95v.
+-Se comprobó que las sumas de los voltajes correspondientes a la resistencia de 820 ohms de cada circuito simplificado es igual al voltaje en esa resistencia del circuito inicial. Por lo tanto se obtuvo que el V= 7,48-6,53 = 0.95v.
 
 -Se comprobó experimentalmente que en el circuito propuesto cumple con el Teorema de Superposición. A través de la comparación de los resultados obtenidos en la simulación y en  los cálculos donde se obtuvo un error de -0.010505% respecto al Voltaje Total y 0.1175% respecto a la Corriente que pasa por el resistor de 470 ohm.
 
