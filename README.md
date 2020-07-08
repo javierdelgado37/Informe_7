@@ -5,7 +5,7 @@ AUTORES: DAVID HINOJOSA,
          JULIO ROSERO.
 
 ## 1. PLANTEAMIENTO DEL PROBLEMA
-Es importante contar con diferentes herramientas que nos sirvan para la resolucion de circuitos, previamente se estudio el analisis de mallas para obtener la corriente de una malla, el analisis de nodos para obtener el voltaje de un nodo y esta vez es el turno de la superposicion. Este metodo puede simplificar en gran medida los calculos que se realizan al analizar un circuito y nos sirve para obtener la corriente o tambien el voltaje, dependiendo de lo que se requiera.
+Es importante contar con diferentes herramientas que nos sirvan para la resolucion de circuitos, previamente se estudio el análisis de mallas para obtener la corriente de una malla, el análisis de nodos para obtener el voltaje de un nodo y esta vez es el turno de la superposición. Este método puede simplificar en gran medida los cálculos que se realizan al analizar un circuito y nos sirve para obtener la corriente o también el voltaje, dependiendo de lo que se requiera.
 ## 2. OBJETIVOS
 GENERAL
 
