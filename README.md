@@ -1,5 +1,4 @@
-# INFORME Nº5 TEOREMA DE 
-
+# INFORME Nº5 TEOREMA DE THÉVENIN
 AUTORES: DAVID HINOJOSA,
          JAVIER DELGADO,
          JULIO ROSERO.
@@ -125,11 +124,11 @@ En las tablas 1 y 2 se puede comprobar claramente que las magnitudes de voltajes
 -Se comprobó que la Ix=0 cuando cortociruitamos la fuente de 12V debido a que el voltaje tiende a 0 y por tanto la Ix también tiende 0.
 ## 9. RECOMENDACIONES
 
--Se debe tener en cuenta que cuando cortocircuitamos la fuente 2, esta puede influye en la intensidad provocando que Ix=0 .
-
 -Armar el circuito de una forma didáctica para que todos puedan entender el funcionamiento del mismo.
 
 -Hacer las respectivas mediciones con cuidado para no obtener datos errónes y que esto no afecte nuestra practica.
+
+
 
 
 
