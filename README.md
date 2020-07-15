@@ -139,9 +139,9 @@ Tabla 2.  Medición de voltaje y corriente en el circuito original y aplicando e
 
 
 ## 8. CONCLUSIONES
--El voltaje de Thevenin nos permite reducir un circutio complejo a uno mas sencillo de analizar
+-El voltaje de Thevenin nos permite reducir un circutio complejo a uno mas sencillo de analizar como se pudo comprobar al realizar los calculos.
 
--Se comprobó que el voltaje de Thevenin es el mismo que cae sobre la resistencia de 330ohms, y se debe a que se encuentran en paralelo.
+-Se comprobó que el voltaje de Thevenin es el mismo que cae sobre la resistencia de 330ohms, y se debe a que se encuentran en paralelo con las terminales sobre las cuales se calculo el voltaje de Thevenin.
 
 -Se  compróbo que el valor obtenido del voltaje de Thevenin de forma experimental es muy cercano al calculado con un error del 0,011%
 
