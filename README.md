@@ -89,10 +89,10 @@ I. Potenciómetro de precisión de 1kΩ
 
 ## 6. DESCRIPCION DE PREREQUISITOS Y CONFIGURACION
 Tabla 1.  Medición de voltaje aplicando superposición
-|                    | Voltaje Total (VA) | Voltaje (VA) [V2 = 0] | Votaje (VA) [V1 = 0] |
-|           ---      |         ---        |     ---               |     ---              |
-|     Calculado      |      951.9 mV      |         7.479 V       |       -6.527 V       | 
-|      Medido        |      952 mV        |         7.480 V       |       -6.530 V       |
+|                    | Voltaje de Thévenin (Vth) | Resistencia de  Thévenin (Rth) |
+|           ---      |             ---           |                  ---           |     
+|     Calculado      |                           |                                |       
+|      Medido        |                           |                                |       
 
 Tabla 2.  Medición de corriente aplicando superposición
 |                    | Corriente Total (Ix) | Corriente (Ix) [V2 = 0] | Corriente (Ix) [V1 = 0]|
