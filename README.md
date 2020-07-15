@@ -95,10 +95,11 @@ Tabla 1.  Medición de voltaje aplicando superposición
 |      Medido        |                           |                                |       
 
 Tabla 2.  Medición de corriente aplicando superposición
-| PARÁMETRO ELÉCTRICO | Circuito Original |Circuito equivalente de Thevenin | Corriente (Ix) [V1 = 0]|
-|           ---       |         Calculado         |               medido     |                ---     |
-|      Voltaje        |       25.53 mA       |            0 A          |          25.53 mA      | 
-|      Corriente      |       25.50 mA       |            0 A          |          25.50 mA      |
+| PARÁMETRO ELÉCTRICO | Circuito Original |Circuito equivalente de Thevenin | Corriente (Ix) [V1 = 0]|             |
+|                     |                   |                                 |                        |             |  
+|           ---       |        ---           |             ---         |           ---               |     ---     |
+|      Voltaje        |       25.53 mA       |            0 A          |          25.53 mA           |             |
+|      Corriente      |       25.50 mA       |            0 A          |          25.50 mA           |             |
 
 En las tablas 1 y 2 se puede comprobar claramente que las magnitudes de voltajes y corrientes obtenidos fueron precisos gracias a la similitud que los datos calculados tienen con los medidos. Por medio de estos se relizan los respectivos cálculos de errores incluidos en la hoja técnica, de igual manera en las conclusiones.
 
