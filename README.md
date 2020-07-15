@@ -9,19 +9,21 @@ Al momento de diseñar circuitos, en ocasiones nos encontramos con resistencias 
 ## 2. OBJETIVOS
 ### GENERAL
 
--Encontrar el circuito equivalente de Thevenin para el resistor 5.
+Encontrar el circuito equivalente de Thevenin para el resistor 5.
 
 ### ESPECÍFICOS
 
--Determinar el voltaje y corriente del resistor 5.
+Determinar el voltaje y corriente del resistor 5.
 
--Determinar la resistencia de Thevenin para el resistor 5.
+Determinar la resistencia de Thevenin para el resistor 5.
 
--Determinar el voltaje de Thevenin para el resistor 5.
+Determinar el voltaje de Thevenin para el resistor 5.
 
--Comparar los valores obtenidos en el circuito de Thevenin y el circuito original.
+Determinar la corriente de Thevenin para el resistor 5.
 
--Determinar el error experimental.
+Comparar los valores obtenidos en el circuito de Thevenin y el circuito original.
+
+Determinar el error experimental.
 
 ## 3. MARCO TEÓRICO 
 
@@ -135,14 +137,22 @@ Tabla 2.  Medición de voltaje y corriente en el circuito original y aplicando e
 
 
 
+
 ## 8. CONCLUSIONES
+-El voltaje de Thevenin nos permite reducir un circutio complejo a uno mas sencillo de analizar
+-Se comprobó que el voltaje de Thevenin es el mismo que cae sobre la resistencia de 330ohms, y se debe a que se encuentran en paralelo.
+-Se  compróbo que el valor obtenido del voltaje de Thevenin de forma experimental es muy cercano al calculado con un error del 0,011%
 
 
 ## 9. RECOMENDACIONES
 
+-Para tomar el voltaje de Thevenin, conectar el multímetro en serie.
+
 -Armar el circuito de una forma didáctica para que todos puedan entender el funcionamiento del mismo.
 
 -Hacer las respectivas mediciones con cuidado para no obtener datos errónes y que esto no afecte nuestra practica.
+
+
 
 
 
