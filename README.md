@@ -126,8 +126,8 @@ Tabla 2.  Medición de voltaje y corriente en el circuito original y aplicando e
 | PARÁMETRO ELÉCTRICO |   Circuito Original  |    Circuito Original    |   Circuito equivalente de Thevenin   |      Circuito equivalente de Thevenin       |
 |           ---       |        ---           |             ---         |           ---                        |                        ---                  |
 |           ---       |      Calculado       |      Medido             |              Calculado               |              Medido                         |  
-|      Voltaje        |         3.893 v      |         3.89 v          |             3.89V                    |                  3.85 v                     |
-|      Corriente      |         3.893 mA     |         3.89 mA         |             3.89mA                   |                  3.85 mA                    |
+|      Voltaje        |         3.893 v      |         3.89 v          |             3.89 v                   |                  3.85 v                     |
+|      Corriente      |         3.893 mA     |         3.89 mA         |             3.89 mA                  |                  3.85 mA                    |
 
 
 ![vcricnormal](https://user-images.githubusercontent.com/66037763/87504718-d86b6900-c62c-11ea-9211-1636f60011e4.png)
