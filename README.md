@@ -4,7 +4,7 @@ AUTORES: DAVID HINOJOSA,
          JULIO ROSERO.
 
 ## 1. PLANTEAMIENTO DEL PROBLEMA
-Al momento de diseñar circuitos, en ocasiones nos encontramos con resistencias que pueden variar, durante el desarrollo del circuito, por lo que es importante saber transformar un circuito complejo a uno mas simple que sea equivalente, aplicando el teorema de Thevenin, sin embargo, se debe contar con conocimiento previo en resolucion de circuitos por mallas y nodos.
+Al momento de diseñar circuitos, en ocasiones nos encontramos con resistencias que pueden variar, durante el desarrollo del circuito, por lo que es importante saber transformar un circuito complejo a uno más simple que sea equivalente, aplicando el teorema de Thevenin, sin embargo, se debe contar con conocimiento previo en resolucion de circuitos por mallas y nodos.
 
 ## 2. OBJETIVOS
 ### GENERAL
@@ -33,6 +33,11 @@ El teorema de Thevenin nos sirve para convertir un circuitos complejo a uno más
 
 ![teo](https://user-images.githubusercontent.com/64505672/87502309-e322ff80-c626-11ea-8e00-5b545140122e.PNG)
 
+EL proceso a seguir para encontrar el circuito equivalente es el siguiente.
+
+1) Se anulan todas las fuentes y se quita la resistencia que actua como terminal, ahora se calcula la resistencia de ese circuito. Esta sera la resistencia de Thevenin.
+2) Se prenden las fuentes y se calcula el voltaje del circuito, considerando que la resistencia que actua como terminal no se toma en cuenta. Este voltaje es el voltaje de Thevenin.
+3) Se reeplantea el circuito tomando como fuente al voltaje de Thevenin, se coloca en serie la resistencia de Thevenin y la resistencia del terminal. El voltaje que cae sobre la resistencia del terminal se lo obtiene facilmente utilizando divisor de voltaje y la corriente se la obtiene aplicando la ley de Ohm. 
 
 
 ## 4. DIAGRAMAS
