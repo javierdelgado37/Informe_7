@@ -88,23 +88,23 @@ I. Potenciómetro de precisión de 1kΩ
 
 
 ## 6. DESCRIPCION DE PREREQUISITOS Y CONFIGURACION
-Tabla 1.  Medición de voltaje aplicando superposición
+Tabla 1.  Medición de voltaje y resistencia de Thévenin
 |                    | Voltaje de Thévenin (Vth) | Resistencia de  Thévenin (Rth) |
 |           ---      |             ---           |                  ---           |     
 |     Calculado      |                           |                                |       
 |      Medido        |                           |                                |       
 
-Tabla 2.  Medición de corriente aplicando superposición
+Tabla 2.  Medición de voltaje y corriente en el circuito original y aplicando el teorema Thévenin
 | PARÁMETRO ELÉCTRICO |   Circuito Original  |    Circuito Original    |   Circuito equivalente de Thevenin   |      Circuito equivalente de Thevenin       |
 |           ---       |        ---           |             ---         |           ---                        |                        ---                  |
 |           ---       |      Calculado       |      Medido             |              Calculado               |              Medido                         |  
 |      Voltaje        |                      |                         |                                      |                                             |
 |      Corriente      |                      |                         |                                      |                                             |
 
-En las tablas 1 y 2 se puede comprobar claramente que las magnitudes de voltajes y corrientes obtenidos fueron precisos gracias a la similitud que los datos calculados tienen con los medidos. Por medio de estos se relizan los respectivos cálculos de errores incluidos en la hoja técnica, de igual manera en las conclusiones.
+
 
 ## 7. CRONOGRAMA
-![0041](https://user-images.githubusercontent.com/66037557/86209632-9f190080-bb38-11ea-8124-2261b92d44ac.png)
+
 
 
 
