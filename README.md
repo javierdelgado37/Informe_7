@@ -9,21 +9,21 @@ Al momento de diseñar circuitos, en ocasiones nos encontramos con resistencias 
 ## 2. OBJETIVOS
 ### GENERAL
 
-Encontrar el circuito equivalente de Thevenin para el resistor 5.
+-Encontrar el circuito equivalente de Thevenin para el resistor 5.
 
 ### ESPECÍFICOS
 
-Determinar el voltaje y corriente del resistor 5.
+-Determinar el voltaje y corriente del resistor 5.
 
-Determinar la resistencia de Thevenin para el resistor 5.
+-Determinar la resistencia de Thevenin para el resistor 5.
 
-Determinar el voltaje de Thevenin para el resistor 5.
+-Determinar el voltaje de Thevenin para el resistor 5.
 
-Determinar la corriente de Thevenin para el resistor 5.
+-Determinar la corriente de Thevenin para el resistor 5.
 
-Comparar los valores obtenidos en el circuito de Thevenin y el circuito original.
+-Comparar los valores obtenidos en el circuito de Thevenin y el circuito original.
 
-Determinar el error experimental.
+-Determinar el error experimental.
 
 ## 3. MARCO TEÓRICO 
 
