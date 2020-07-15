@@ -164,7 +164,9 @@ Resistencia de Thévenin, donde se apagan las fuentes y en el lugar de R5 se pon
 
 -Se comprobó que el voltaje de Thevenin es el mismo que cae sobre la resistencia de 330ohms, y se debe a que se encuentran en paralelo con las terminales sobre las cuales se calculo el voltaje de Thevenin.
 
--Se compróbo que el valor obtenido del voltaje de Thevenin de forma experimental es muy cercano al calculado con un error del 0,011%
+-Se compróbo que el valor obtenido del voltaje de Thevenin de forma experimental es muy cercano al calculado con un error del 0,011%.
+
+-Se comprobó que el valor del Voltaje de Thevenin con respecto del medido es del 1%, este se debe a que el software no nos permite colocar todas cifras del voltaje medido de Thevenin y tampoco nos permite digitar la resistencia con sus cifras exactas que se midio.
 
 ## 9. RECOMENDACIONES
 
