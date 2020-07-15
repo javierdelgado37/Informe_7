@@ -25,6 +25,12 @@ ESPECÍFICOS
 
 
 
+![fVZ6vry9mI](https://user-images.githubusercontent.com/66037763/87495613-6d636780-c617-11ea-86ac-ef76ae2957c5.png)
+
+
+
+
+
 ## 5. LISTA DE COMPONENTES
 A. 2 Fuentes de Voltaje de C.D.
 
