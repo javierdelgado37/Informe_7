@@ -8,50 +8,18 @@ Es importante contar con diferentes herramientas que nos sirvan para la resoluci
 ## 2. OBJETIVOS
 GENERAL
 
-- Comprobar experimentalmente el Teorema de Superposición.
 
 ESPECÍFICOS
 
-- Armar el circuito indicado en el programa TinkerCad.
-
-- Medir y calcular el voltaje y corriente indicado en la guia.
-
-- Determinar el error en las mediciones.
 
 
 ## 3. MARCO TEÓRICO 
-Si un circuito tiene dos o más fuentes independientes, una forma de determinar el valor de una variable específica (tensión o corriente) es determinar la contribución de cada fuente independiente a la variable y después sumarlas. Este último método se conoce como superposición. Sadiku (2004) dice:
-
-  El principio de superposición establece que la tensión entre los extremos (o la corriente a través) de un elemento en un circuito lineal es la suma algebraica de las tensiones   (o corrientes) a través de ese elemento debido a que cada fuente independiente actúa sola. (p.130)
-
-El principio de superposición ayuda a analizar un circuito lineal con más de una fuente independiente, mediante el cálculo de la contribución de cada fuente independiente por separado. 
-
-![image](https://user-images.githubusercontent.com/64505672/86199459-ca432600-bb1f-11ea-885d-704b37e5f886.png)
-
-Pasos para aplicar el principio de superposición:
-1. Apague todas las fuentes independientes, excepto una. Determine la salida (tensión o corriente) debida a esa fuente activa, aplicando las técnicas cubiertas en los capítulos 2 y 3.
-2. Repita el paso 1 en cada una de las demás fuentes independientes.
-3. Halle la contribución total sumando algebraicamente todas las contribuciones debidas a las fuentes independientes.
 
 
 ## 4. DIAGRAMAS
 
 
 
-![chrome_rwenS5IKRn](https://user-images.githubusercontent.com/66037763/86203161-ea77e280-bb29-11ea-8777-ae63bd163266.png)
-
-
-
-El circuito base que nos enseña como están posicionados los componentes eléctricos para el respectivo ensamblaje del circuito en el protoboard. 
-
-
-
-![CircuitoSuperposición](https://user-images.githubusercontent.com/66037763/86204933-5a886780-bb2e-11ea-9f76-262823f08566.png)
-
-
-
-Podemos identificar el número de fuentes que tiene el circuito (2 en total, una en cada extremo) en las cuales se aplicará el método de superposición para 
-encontrar el voltaje (VA) y la corriente (Ix) de una manera mas sencilla que en un análisis de mallas.
 
 ## 5. LISTA DE COMPONENTES
 A. Fuente de Voltaje de C.D.
@@ -115,23 +83,13 @@ En las tablas 1 y 2 se puede comprobar claramente que las magnitudes de voltajes
 
 
 ## 8. CONCLUSIONES
--Se comprobó que elTeorema de Superposición es una técnica que nos permite simplificar el análisis matemático de circuitos lineal que poseen varias fuentes de voltaje o corriente.
 
--Se comprobó que las sumas de los voltajes correspondientes a la resistencia de 820 ohms de cada circuito simplificado es igual al voltaje en esa resistencia del circuito inicial. Por lo tanto se obtuvo que el V= 7,48-6,53 = 0.95v.
 
--Se comprobó experimentalmente que en el circuito propuesto cumple con el Teorema de Superposición. A través de la comparación de los resultados obtenidos en la simulación y en  los cálculos donde se obtuvo un error de -0.010505% respecto al Voltaje Total y 0.1175% respecto a la Corriente que pasa por el resistor de 470 ohm.
-
--Se comprobó que la Ix=0 cuando cortociruitamos la fuente de 12V debido a que el voltaje tiende a 0 y por tanto la Ix también tiende 0.
 ## 9. RECOMENDACIONES
 
 -Armar el circuito de una forma didáctica para que todos puedan entender el funcionamiento del mismo.
 
 -Hacer las respectivas mediciones con cuidado para no obtener datos errónes y que esto no afecte nuestra practica.
-
-
-
-
-
 
 
 
