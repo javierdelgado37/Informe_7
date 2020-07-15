@@ -33,7 +33,7 @@ El teorema de Thevenin nos sirve para convertir un circuitos complejo a uno más
 
 ![teo](https://user-images.githubusercontent.com/64505672/87502309-e322ff80-c626-11ea-8e00-5b545140122e.PNG)
 
-EL proceso a seguir para encontrar el circuito equivalente es el siguiente.
+EL proceso a seguir para encontrar el circuito equivalente es el siguiente:
 
 1) Se anulan todas las fuentes y se quita la resistencia que actua como terminal, ahora se calcula la resistencia de ese circuito. Esta sera la resistencia de Thevenin.
 2) Se prenden las fuentes y se calcula el voltaje del circuito, considerando que la resistencia que actua como terminal no se toma en cuenta. Este voltaje es el voltaje de Thevenin.
