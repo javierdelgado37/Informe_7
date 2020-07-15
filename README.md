@@ -133,17 +133,25 @@ Tabla 2.  Medición de voltaje y corriente en el circuito original y aplicando e
 ![vcricnormal](https://user-images.githubusercontent.com/66037763/87504718-d86b6900-c62c-11ea-9211-1636f60011e4.png)
 
 
+Circuito original, se mide en el multímetro el voltaje que fluye por la resistencia 5.
+
 
 ![vequivalentethevenin](https://user-images.githubusercontent.com/66037763/87504782-fb961880-c62c-11ea-8af4-d6c13f025f91.png)
 
+
+El circuito equivalente de Thévenin, se mide en el multímetro el voltaje que fluye por la resistencia.
 
 
 ![vthevenin](https://user-images.githubusercontent.com/66037763/87504812-0cdf2500-c62d-11ea-9ce9-7a66b70cc06e.png)
 
 
+Circuito removiendo R5, oteniendo de tal manera el voltaje de Thévenin. 
+
 
 ![resis](https://user-images.githubusercontent.com/66037763/87504837-1799ba00-c62d-11ea-9f85-d0f8fcb43562.png)
 
+
+Resistencia de Thévenin, donde se apagan las fuentes y en el lugar de R5 se pone el multímetro.
 
 
 ## 7. CRONOGRAMA
