@@ -4,7 +4,7 @@ AUTORES: DAVID HINOJOSA,
          JULIO ROSERO.
 
 ## 1. PLANTEAMIENTO DEL PROBLEMA
-Al momento de diseñar circuitos, en ocasiones nos encontramos con resistencias que pueden variar en el transcurso del diseño del circuito, por lo que es importante saber transformar un circuito complejo a uno más simple que sea equivalente, aplicando el teorema de Thevenin, sin embargo, se debe contar con conocimiento previo en resolucion de circuitos por mallas y nodos.
+Al momento de diseñar circuitos, en ocasiones nos encontramos con resistencias que pueden variar, durante el desarrollo del circuito, por lo que es importante saber transformar un circuito complejo a uno mas simple que sea equivalente, aplicando el teorema de Thevenin, sin embargo, se debe contar con conocimiento previo en resolucion de circuitos por mallas y nodos.
 
 ## 2. OBJETIVOS
 ### GENERAL
@@ -15,25 +15,17 @@ Encontrar el circuito equivalente de Thevenin para el resistor 5.
 
 Determinar el voltaje y corriente de la resistor 5.
 
-Determinar la resistencia de Thevenin para el resistor 5.
+Determinar la resistencia de Thevenin.
 
-Determinar el voltaje de Thevenin para el resistor 5.
+Determinar el voltaje de Thevenin.
 
-Determinar la corriente de Thevenin para el resistor 5.
+Determinar la corriente de Thevenin.
 
 Comparar los valores obtenidos en el circuito de Thevenin y el circuito original.
 
 Determinar el error experimental.
 
 ## 3. MARCO TEÓRICO 
-
-#### Teorema de Thevenin
-
-El teorema de Thevenin nos sirve para convertir un circuitos complejo a uno más simple, encontrando un voltaje y una resistencia que hagan este circuito equivalente, denominados como voltaje de Thevenin y resistencia de Thevenin respectivamente. Sadiku (2004) afirma:
-
-"El teorema de Thevenin establece que un circuito lineal de dos terminales puede remplazarse por un circuito equivalente que consta de una fuente de tensión VTh en serie con un resistor RTh, donde VTh es la tensión de circuito abierto en las terminales y RTh es la entrada o resistencia equivalente en las terminales cuando las fuentes independientes se apagan". pag(139)
-
-![teo](https://user-images.githubusercontent.com/64505672/87502309-e322ff80-c626-11ea-8e00-5b545140122e.PNG)
 
 
 ## 4. DIAGRAMAS
@@ -42,6 +34,17 @@ El teorema de Thevenin nos sirve para convertir un circuitos complejo a uno más
 
 ![chrome_RB7j3LYyof](https://user-images.githubusercontent.com/66037763/87493730-1196df80-c613-11ea-952b-1663cdba35ba.png)
 
+
+
+El circuito base otorgado en la guía de la práctica, en este se describe de que manera están distribuidos los componentes eléctricos y sus respectivos valores. Facilita de gran manera el reconocer la resistencia que se removerá para aplicar el teorema.
+
+
+
+![fVZ6vry9mI](https://user-images.githubusercontent.com/66037763/87501391-95a59300-c624-11ea-80c6-b3645eed8ec2.png)
+
+
+
+En la parte derecha, encerrado en rojo, se encuentra la resistencia que se ignorará al hacer el respectivo análisis por medio del teorema de Thévening. Encerrado en rectángulos se encuentran las fuentes del circuito, las cuales apagaremos para buscar la resistencia de Th. 
 
 
 
@@ -98,12 +101,6 @@ H. Protoboard
 
 ![chrome_gnkRWUT4Si](https://user-images.githubusercontent.com/66037763/84236208-e9b8d700-aabc-11ea-9985-2e94ef9d6adb.png)
 
-
-
-I. Potenciómetro de precisión de 1kΩ
-
-
-![chrome_xygSoFbiG6](https://user-images.githubusercontent.com/66037763/87493339-3b033b80-c612-11ea-96d1-e18dd8adc70a.png)
 
 
 
