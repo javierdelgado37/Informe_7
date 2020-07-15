@@ -165,7 +165,7 @@ Resistencia de Thévenin, donde se apagan las fuentes y en el lugar de R5 se pon
 -Se compróbo que el valor obtenido del voltaje de Thevenin de forma experimental es (5.050V) muy cercano al calculado (5.056v)
 con un error del 0,011%.
 
--Se comprobó que el valor del Voltaje de Thevenin con respecto del medido es del 1.48%, este se debe a que el software no nos permite colocar todas cifras de la resistencia y voltaje medido de Thevenin .
+-Se comprobó que el valor del Voltaje de Thevenin con respecto del medido es del 1.03%, este se debe a que el software no nos permite colocar todas cifras de la resistencia y voltaje medido de Thevenin .
 
 
 ## 9. RECOMENDACIONES
