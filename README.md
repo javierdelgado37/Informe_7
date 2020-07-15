@@ -4,14 +4,21 @@ AUTORES: DAVID HINOJOSA,
          JULIO ROSERO.
 
 ## 1. PLANTEAMIENTO DEL PROBLEMA
+Al momento de diseñar circuitos, en ocasiones nos encontramos con resistencias que pueden variar por lo que es importante saber transformar un circuito complejo a uno mas simple que sea equivalente, aplicando el teorema de Thevenin, sin embargo, se debe contar con conocimiento previo en resolucion de circuitos por mallas y nodos.
 
 ## 2. OBJETIVOS
 GENERAL
 
+Encontrar el circuito equivalente de Thevenin para el resistor 5.
 
 ESPECÍFICOS
 
-
+Determinar el voltaje y corriente de la resistor 5
+Determinar la resistencia de Thevenin.
+Determinar el voltaje de Thevenin.
+Determinar la corriente de Thevenin.
+Comparar los valores obtenidos en el circuito de Thevenin y el circuito original.
+Determinar el error experimental.
 
 ## 3. MARCO TEÓRICO 
 
@@ -21,12 +28,6 @@ ESPECÍFICOS
 
 
 ![chrome_RB7j3LYyof](https://user-images.githubusercontent.com/66037763/87493730-1196df80-c613-11ea-952b-1663cdba35ba.png)
-
-
-
-
-![fVZ6vry9mI](https://user-images.githubusercontent.com/66037763/87495613-6d636780-c617-11ea-86ac-ef76ae2957c5.png)
-
 
 
 
