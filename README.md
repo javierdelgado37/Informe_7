@@ -153,6 +153,12 @@ Circuito removiendo R5, oteniendo de tal manera el voltaje de Thévenin.
 
 Resistencia de Thévenin, donde se apagan las fuentes y en el lugar de R5 se pone el multímetro.
 
+Finalmente, los errores respectivos a los resultados calculados son:
+
+
+![chrome_9W8ZZ1xiE7](https://user-images.githubusercontent.com/66037763/87513623-9fd48b00-c63e-11ea-897b-b21f6a18d23a.png)
+
+
 
 ## 7. CRONOGRAMA
 ![0064](https://user-images.githubusercontent.com/66037557/87512435-9ea25e80-c63c-11ea-867b-50dd98a3fd8f.png)
