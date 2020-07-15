@@ -27,6 +27,12 @@ Determinar el error experimental.
 
 ## 3. MARCO TEÓRICO 
 
+#### Teorema de Thevenin
+
+El teorema de Thevenin nos sirve para convertir un circuitos complejo a uno mas simple, encontrando un voltaje y un resistencia que sea equivalente, denominados como voltaje de Thevenin y resistencia de Thevenin respectivamente. Sadiku (2004) afirma.
+
+"El teorema de Thevenin establece que un circuito lineal de dos terminales puede remplazarse por un circuito equivalente que consta de una fuente de tensión VTh en serie con un resistor RTh, donde VTh es la tensión de circuito abierto en las terminales y RTh es la entrada o resistencia equivalente en las terminales cuando las fuentes independientes se apagan". pag(139)
+
 
 ## 4. DIAGRAMAS
 
