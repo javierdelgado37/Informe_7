@@ -37,6 +37,10 @@ Determinar el error experimental.
 
 
 
+![fVZ6vry9mI](https://user-images.githubusercontent.com/66037763/87501391-95a59300-c624-11ea-80c6-b3645eed8ec2.png)
+
+
+
 ## 5. LISTA DE COMPONENTES
 A. 2 Fuentes de Voltaje de C.D.
 
@@ -90,12 +94,6 @@ H. Protoboard
 
 ![chrome_gnkRWUT4Si](https://user-images.githubusercontent.com/66037763/84236208-e9b8d700-aabc-11ea-9985-2e94ef9d6adb.png)
 
-
-
-I. Potenciómetro de precisión de 1kΩ
-
-
-![chrome_xygSoFbiG6](https://user-images.githubusercontent.com/66037763/87493339-3b033b80-c612-11ea-96d1-e18dd8adc70a.png)
 
 
 
