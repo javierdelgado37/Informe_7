@@ -7,11 +7,11 @@ AUTORES: DAVID HINOJOSA,
 Al momento de diseñar circuitos, en ocasiones nos encontramos con resistencias que pueden variar por lo que es importante saber transformar un circuito complejo a uno mas simple que sea equivalente, aplicando el teorema de Thevenin, sin embargo, se debe contar con conocimiento previo en resolucion de circuitos por mallas y nodos.
 
 ## 2. OBJETIVOS
-# GENERAL
+### GENERAL
 
 Encontrar el circuito equivalente de Thevenin para el resistor 5.
 
-# ESPECÍFICOS
+### ESPECÍFICOS
 
 Determinar el voltaje y corriente de la resistor 5.
 
