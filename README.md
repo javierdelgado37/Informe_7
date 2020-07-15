@@ -13,11 +13,16 @@ Encontrar el circuito equivalente de Thevenin para el resistor 5.
 
 ESPECÍFICOS
 
-Determinar el voltaje y corriente de la resistor 5
+Determinar el voltaje y corriente de la resistor 5.
+
 Determinar la resistencia de Thevenin.
+
 Determinar el voltaje de Thevenin.
+
 Determinar la corriente de Thevenin.
+
 Comparar los valores obtenidos en el circuito de Thevenin y el circuito original.
+
 Determinar el error experimental.
 
 ## 3. MARCO TEÓRICO 
