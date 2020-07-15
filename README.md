@@ -9,21 +9,19 @@ Al momento de diseñar circuitos, en ocasiones nos encontramos con resistencias 
 ## 2. OBJETIVOS
 ### GENERAL
 
-Encontrar el circuito equivalente de Thevenin para el resistor 5.
+-Encontrar el circuito equivalente de Thevenin para el resistor 5.
 
 ### ESPECÍFICOS
 
-Determinar el voltaje y corriente del resistor 5.
+-Determinar el voltaje y corriente del resistor 5.
 
-Determinar la resistencia de Thevenin para el resistor 5.
+-Determinar la resistencia de Thevenin para el resistor 5.
 
-Determinar el voltaje de Thevenin para el resistor 5.
+-Determinar el voltaje de Thevenin para el resistor 5.
 
-Determinar la corriente de Thevenin para el resistor 5.
+-Comparar los valores obtenidos en el circuito de Thevenin y el circuito original.
 
-Comparar los valores obtenidos en el circuito de Thevenin y el circuito original.
-
-Determinar el error experimental.
+-Determinar el error experimental.
 
 ## 3. MARCO TEÓRICO 
 
@@ -117,23 +115,38 @@ H. Protoboard
 
 
 ## 6. DESCRIPCION DE PREREQUISITOS Y CONFIGURACION
+
 Tabla 1.  Medición de voltaje y resistencia de Thévenin
 |                    | Voltaje de Thévenin (Vth) | Resistencia de  Thévenin (Rth) |
 |           ---      |             ---           |                  ---           |     
-|     Calculado      |                           |                                |       
-|      Medido        |                           |                                |       
+|     Calculado      |            5.055 v        |                298.855 Ω       |       
+|      Medido        |            5.06 v         |                299   Ω         |       
 
 Tabla 2.  Medición de voltaje y corriente en el circuito original y aplicando el teorema Thévenin
 | PARÁMETRO ELÉCTRICO |   Circuito Original  |    Circuito Original    |   Circuito equivalente de Thevenin   |      Circuito equivalente de Thevenin       |
 |           ---       |        ---           |             ---         |           ---                        |                        ---                  |
 |           ---       |      Calculado       |      Medido             |              Calculado               |              Medido                         |  
-|      Voltaje        |                      |                         |                                      |                                             |
-|      Corriente      |                      |                         |                                      |                                             |
+|      Voltaje        |                      |         3.89 v          |                                      |                  3.85 v                     |
+|      Corriente      |                      |         3.89 mA         |                                      |                  3.85 mA                    |
+
+
+![vcricnormal](https://user-images.githubusercontent.com/66037763/87504718-d86b6900-c62c-11ea-9211-1636f60011e4.png)
+
+
+
+![vequivalentethevenin](https://user-images.githubusercontent.com/66037763/87504782-fb961880-c62c-11ea-8af4-d6c13f025f91.png)
+
+
+
+![vthevenin](https://user-images.githubusercontent.com/66037763/87504812-0cdf2500-c62d-11ea-9ce9-7a66b70cc06e.png)
+
+
+
+![resis](https://user-images.githubusercontent.com/66037763/87504837-1799ba00-c62d-11ea-9f85-d0f8fcb43562.png)
 
 
 
 ## 7. CRONOGRAMA
-
 
 
 
@@ -143,18 +156,13 @@ Tabla 2.  Medición de voltaje y corriente en el circuito original y aplicando e
 
 -Se comprobó que el voltaje de Thevenin es el mismo que cae sobre la resistencia de 330ohms, y se debe a que se encuentran en paralelo con las terminales sobre las cuales se calculo el voltaje de Thevenin.
 
--Se  compróbo que el valor obtenido del voltaje de Thevenin de forma experimental es muy cercano al calculado con un error del 0,011%
-
+-Se compróbo que el valor obtenido del voltaje de Thevenin de forma experimental es muy cercano al calculado con un error del 0,011%
 
 ## 9. RECOMENDACIONES
-
--Para tomar el voltaje de Thevenin, conectar el multímetro en serie.
 
 -Armar el circuito de una forma didáctica para que todos puedan entender el funcionamiento del mismo.
 
 -Hacer las respectivas mediciones con cuidado para no obtener datos errónes y que esto no afecte nuestra practica.
-
-
 
 
 
