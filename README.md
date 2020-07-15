@@ -4,7 +4,7 @@ AUTORES: DAVID HINOJOSA,
          JULIO ROSERO.
 
 ## 1. PLANTEAMIENTO DEL PROBLEMA
-Es importante contar con diferentes herramientas que nos sirvan para la resolucion de circuitos, previamente se estudio el análisis de mallas para obtener la corriente de una malla, el análisis de nodos para obtener el voltaje de un nodo y esta vez es el turno de la superposición. Este método puede simplificar en gran medida los cálculos que se realizan al analizar un circuito y nos sirve para obtener la corriente o también el voltaje, dependiendo de lo que se requiera.
+
 ## 2. OBJETIVOS
 GENERAL
 
@@ -22,13 +22,13 @@ ESPECÍFICOS
 
 
 ## 5. LISTA DE COMPONENTES
-A. Fuente de Voltaje de C.D.
+A. 2 Fuentes de Voltaje de C.D.
 
 
 ![chrome_FxjHlWp3kM](https://user-images.githubusercontent.com/66037763/84236034-96df1f80-aabc-11ea-9159-3d2235bc315b.png)
 
 
-B. Multímetro Digital
+B. 2 Multímetros Digitales
 
 ![Multimetro](https://user-images.githubusercontent.com/66037763/86204443-252f4a00-bb2d-11ea-8508-0edf4c96af71.png)
 
@@ -39,27 +39,48 @@ C. Resistor de 1 kΩ
 ![chrome_gxIw13c1Q1](https://user-images.githubusercontent.com/66037763/86204259-aafec580-bb2c-11ea-9077-c7547372cc76.png)
 
 
-D. Resistor de 2.2 kΩ
+D. Resistor de 560 Ω
 
 
-![chrome_VDgV5hnKS3](https://user-images.githubusercontent.com/66037763/86204472-34ae9300-bb2d-11ea-84d2-02c17b97de6a.png)
+![chrome_Ih8MAuGPLY](https://user-images.githubusercontent.com/66037763/87492914-40ac5180-c611-11ea-92f2-1ac0009fb676.png)
 
 
-E. Resistor de 820 Ω
+
+E. Resistor de 4.7 kΩ
 
 
-![chrome_i2Yob2vsmi](https://user-images.githubusercontent.com/66037763/86204372-f6b16f00-bb2c-11ea-8486-014eb547b11f.png)
+
+![chrome_U2pfjesE6R](https://user-images.githubusercontent.com/66037763/87492962-59b50280-c611-11ea-9627-ce1b74b186de.png)
 
 
-F. Resistor de 470 Ω
+
+F. Resistor de 330 Ω
 
 
-![chrome_qyYohEcMxn](https://user-images.githubusercontent.com/66037763/86204405-09c43f00-bb2d-11ea-972d-91ed7bde2ee1.png)
+
+![chrome_V3LCaMSZyo](https://user-images.githubusercontent.com/66037763/87492992-6fc2c300-c611-11ea-9f3f-0836bb10c9bc.png)
+
+
+
+G. Resistor de 100 Ω
+
+
+![chrome_wn2rPVIKdK](https://user-images.githubusercontent.com/66037763/87493052-908b1880-c611-11ea-9e11-f4636f495820.png)
+
 
 
 H. Protoboard
 
+
 ![chrome_gnkRWUT4Si](https://user-images.githubusercontent.com/66037763/84236208-e9b8d700-aabc-11ea-9985-2e94ef9d6adb.png)
+
+
+
+I. Potenciómetro de precisión de 1kΩ
+
+
+![chrome_xygSoFbiG6](https://user-images.githubusercontent.com/66037763/87493339-3b033b80-c612-11ea-96d1-e18dd8adc70a.png)
+
 
 
 ## 6. DESCRIPCION DE PREREQUISITOS Y CONFIGURACION
