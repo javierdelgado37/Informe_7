@@ -4,7 +4,7 @@ AUTORES: DAVID HINOJOSA,
          JULIO ROSERO.
 
 ## 1. PLANTEAMIENTO DEL PROBLEMA
-Al momento de diseñar circuitos, en ocasiones nos encontramos con resistencias que pueden variar, durante el desarrollo del circuito, por lo que es importante saber transformar un circuito complejo a uno mas simple que sea equivalente, aplicando el teorema de Thevenin, sin embargo, se debe contar con conocimiento previo en resolucion de circuitos por mallas y nodos.
+Al momento de diseñar circuitos, en ocasiones nos encontramos con resistencias que pueden variar en el transcurso del diseño del circuito, por lo que es importante saber transformar un circuito complejo a uno más simple que sea equivalente, aplicando el teorema de Thevenin, sin embargo, se debe contar con conocimiento previo en resolucion de circuitos por mallas y nodos.
 
 ## 2. OBJETIVOS
 ### GENERAL
@@ -34,10 +34,6 @@ Determinar el error experimental.
 
 ![chrome_RB7j3LYyof](https://user-images.githubusercontent.com/66037763/87493730-1196df80-c613-11ea-952b-1663cdba35ba.png)
 
-
-
-
-![fVZ6vry9mI](https://user-images.githubusercontent.com/66037763/87501391-95a59300-c624-11ea-80c6-b3645eed8ec2.png)
 
 
 
@@ -94,6 +90,12 @@ H. Protoboard
 
 ![chrome_gnkRWUT4Si](https://user-images.githubusercontent.com/66037763/84236208-e9b8d700-aabc-11ea-9985-2e94ef9d6adb.png)
 
+
+
+I. Potenciómetro de precisión de 1kΩ
+
+
+![chrome_xygSoFbiG6](https://user-images.githubusercontent.com/66037763/87493339-3b033b80-c612-11ea-96d1-e18dd8adc70a.png)
 
 
 
