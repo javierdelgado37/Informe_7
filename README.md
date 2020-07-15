@@ -155,9 +155,7 @@ Resistencia de Thévenin, donde se apagan las fuentes y en el lugar de R5 se pon
 
 
 ## 7. CRONOGRAMA
-
-
-
+![0064](https://user-images.githubusercontent.com/66037557/87512435-9ea25e80-c63c-11ea-867b-50dd98a3fd8f.png)
 
 ## 8. CONCLUSIONES
 -El voltaje de Thevenin nos permite reducir un circutio complejo a uno mas sencillo de analizar como se pudo comprobar al realizar los calculos.
