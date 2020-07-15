@@ -127,7 +127,7 @@ Tabla 2.  Medición de voltaje y corriente en el circuito original y aplicando e
 |           ---       |        ---           |             ---         |           ---                        |                        ---                  |
 |           ---       |      Calculado       |      Medido             |              Calculado               |              Medido                         |  
 |      Voltaje        |                      |         3.89 v          |                                      |                  3.85 v                     |
-|      Corriente      |                      |         3.89 mA         |                                      |                  3.85 mA                    |
+|      Corriente      |         3.89 mA      |         3.89 mA         |                                      |                  3.85 mA                    |
 
 
 ![vcricnormal](https://user-images.githubusercontent.com/66037763/87504718-d86b6900-c62c-11ea-9211-1636f60011e4.png)
