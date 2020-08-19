@@ -112,6 +112,7 @@ Circuito ensamblado y en funcionamiento. Los equipos de medición se encuentran 
 PREGUNTAS:
 
 -¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? 
+
 La amplitud de la onda abarca aproximadamente 3 y 1/3 de cuadrados (medidos desde el eje de abscisas).
 
 -¿En qué valor está posicionada la perilla VOLTS/DIV?
@@ -122,6 +123,7 @@ Esta perilla se suele encontrar en el ajuste vertical de los osciloscopios, sirv
 
 
 -¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida? 
+
 Un ciclo completo abarca exactamente 4 cuadrados.
 
 
@@ -133,26 +135,30 @@ Un ciclo completo abarca exactamente 4 cuadrados.
 
 El tiempo por división se encuentra en 100 µs, este define las divisiones en la anterior pregunta. 
 
+RESULTADOS
 
--. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
+1) ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
+
 La amplitud se encuentra entre 6 y 8 V. Esto es visible ya que dentro de la escala propuesta por el software, existen 5 divisiones de cuadrados en los 10 voltios que se presentan de amplitud. El periodo de la pantalla corresponde a 400 µs, siguiendo el mismo análisis previamente mencionado y al valor en la perilla TIME/DIV (recordar que 1 ms equivale a 1000 µs).
 
 ![image](https://user-images.githubusercontent.com/66037763/90585559-be2c2a00-e19a-11ea-8391-305d84e625bf.png)
 
-RESULTADOS
+2) Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida
 
-1) Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
-salida
 f = 2500 Hz
 w = 5k π rad/s
 (revisar hoja de cálculos)
 
-2) Con el multímetro digital mida el voltaje de salida en RL:
+3) Con el multímetro digital mida el voltaje de salida en RL:
 
 ![Animated GIF-downsized](https://user-images.githubusercontent.com/66037763/90589450-bf158980-e1a3-11ea-8605-fd17fce8c91f.gif)
 
-3) Compare el voltaje medido en el punto 1) y el obtenido en el punto 2)
-¿Coinciden? _______ ¿Por qué? 
+El voltaje en RL se encuentra entre 6 y 8 (valor máximo) como se observa en el GIF.
+
+4) Compare el voltaje medido en el punto 1) y el obtenido en el punto 2) ¿Coinciden? ¿Por qué? 
+
+Coinciden parcialmente. El software indica valores variantes en el multímetro que no superan el valor indicado en el punto 2).
+
 
 ## 7. CRONOGRAMA
 ![0064](https://user-images.githubusercontent.com/66037557/87512435-9ea25e80-c63c-11ea-867b-50dd98a3fd8f.png)
