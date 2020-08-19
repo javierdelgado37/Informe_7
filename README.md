@@ -114,16 +114,16 @@ PREGUNTAS:
 -¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? 
 
 
-![chrome_CuoxOw2X9k](https://user-images.githubusercontent.com/66037763/90594420-fb4ee700-e1af-11ea-82ce-ad62abdc7be2.png)
+![image](https://user-images.githubusercontent.com/66037763/90596788-5e8f4800-e1b5-11ea-82f8-39cd78a5a334.png)
 
 
-La amplitud de la onda abarca 2 cuadrados (medidos desde el eje de abscisas).
+La amplitud de la onda abarca 1 y 1/3 cuadrados (medidos desde el eje de abscisas).
 
 
 -¿En qué valor está posicionada la perilla VOLTS/DIV?
 
 
-![image](https://user-images.githubusercontent.com/66037763/90594469-1de10000-e1b0-11ea-998e-21cd5185e6eb.png)
+![chrome_ctmXuTA3RS](https://user-images.githubusercontent.com/66037763/90596891-96968b00-e1b5-11ea-9471-36cbdd9df545.png)
 
 
 Esta perilla se suele encontrar en el ajuste vertical de los osciloscopios, sirve para aumentar o disminuir la amplitud de onda y en el presente caso se encuentra en 5 ya que dentro de las instrucciones dictadas se condiciona que existe una amplitud de pico a pico de 20 Vpp (V. peak to peak).
@@ -137,7 +137,7 @@ Un ciclo completo abarca exactamente 4 cuadrados.
 -¿En qué valor está posicionada la perilla TIME/DIV?
 
 
-![image](https://user-images.githubusercontent.com/66037763/90594558-5254bc00-e1b0-11ea-9b4f-40e6fc557c5c.png)
+![image](https://user-images.githubusercontent.com/66037763/90597120-0ad12e80-e1b6-11ea-9672-9935c680a80c.png)
 
 
 El tiempo por división se encuentra en 100 µs, este define las divisiones en la anterior pregunta. 
@@ -147,7 +147,7 @@ RESULTADOS
 
 1) ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
-La amplitud es 10 V. Esto es visible en las imágenes previamente mostradas ya que una división por cuadro representa 5 V y son dos las que ocupa la amplitud. El periodo de la pantalla corresponde a 400 µs, siguiendo el mismo análisis previamente mencionado y al valor en la perilla TIME/DIV.
+La amplitud es mayor a 5 V. Esto es visible en las imágenes previamente mostradas ya que una división por cuadro representa 5 V y esta ocupa 1/3 de más. El periodo de la pantalla corresponde a 400 µs, siguiendo el mismo análisis previamente mencionado y al valor en la perilla TIME/DIV.
 
 2) Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida
 
