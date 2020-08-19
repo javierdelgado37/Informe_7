@@ -23,7 +23,7 @@ A pesar de que la corriente directa es mas fácil de entender y de realizar cál
 
 ### Corriente Alterna (Onda Senoidal)
 
-La corriente alterna o senoidal, es el tipo de corriente que se utiliza en la distribución de energia en las ciudades, ya que es la más eficiente y econámica. Con respecto a este tema Sadiku menciona:
+La corriente alterna o senoidal, es el tipo de corriente que se utiliza en la distribución de energia en las ciudades, ya que es la más eficiente y económica. Con respecto a este tema Sadiku menciona:
 
 "Una corriente senoidal se conoce usualmente como corriente alterna (ca). Esta corriente se invierte a intervalos regulares y tiene valores alternadamente positivo y negativo. Los circuitos excitados por fuentes de corriente o tensión senoidal se llaman circuitos de ca. Una senoide es una señal que tiene la forma de la función seno o coseno" pag 370
 
