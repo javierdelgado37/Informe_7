@@ -148,7 +148,7 @@ w = 5k π rad/s
 (revisar hoja de cálculos)
 
 2) Con el multímetro digital mida el voltaje de salida en RL:
-![Animated GIF-source](https://user-images.githubusercontent.com/66037763/90589243-46aec880-e1a3-11ea-9dd7-26fc72c1bad9.gif)
+<div style="width:100%;height:0;padding-bottom:65%;position:relative;"><iframe src="https://giphy.com/embed/f8hhHypbZ3YY4vvZcc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/f8hhHypbZ3YY4vvZcc">via GIPHY</a></p>
 
 
 3) Compare el voltaje medido en el punto 1) y el obtenido en el punto 2)
