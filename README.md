@@ -4,38 +4,43 @@ AUTORES: DAVID HINOJOSA,
          JULIO ROSERO.
 
 ## 1. PLANTEAMIENTO DEL PROBLEMA
-Al momento de diseñar circuitos, en ocasiones nos encontramos con resistencias que pueden variar, durante el desarrollo del circuito, por lo que es importante saber transformar un circuito complejo a uno más simple que sea equivalente, aplicando el teorema de Thevenin, sin embargo, se debe contar con conocimiento previo en resolucion de circuitos por mallas y nodos.
+La mayoria de circuitos, sobretodo en la distribución eléctrica en las ciudades y la forma en la que llega la electricidad en nuestros hogares, el voltaje llega en corriente alterna, es decir que llega con una frecuencia.
 
 ## 2. OBJETIVOS
 ### GENERAL
 
--Encontrar el circuito equivalente de Thevenin para el resistor 5.
+- Determinar experimentalmente las características de señales senoidales.
 
 ### ESPECÍFICOS
 
--Determinar el voltaje y corriente del resistor 5.
+- Realizar una la simulación de un circuito con corriente alterna.
 
--Determinar la resistencia de Thevenin para el resistor 5.
+- Observar y analizar el comportamiento de la corriente en el resistor RL del circuito.
 
--Determinar el voltaje de Thevenin para el resistor 5.
-
--Comparar los valores obtenidos en el circuito de Thevenin y el circuito original.
-
--Determinar el error experimental.
+- Responder las preguntas de la guía.
 
 ## 3. MARCO TEÓRICO 
 
-El teorema de Thevenin nos sirve para convertir un circuitos complejo a uno más simple, encontrando un voltaje y una resistencia que hagan este circuito equivalente, denominados como voltaje de Thevenin y resistencia de Thevenin respectivamente. Sadiku (2004) afirma:
+### Corriente Alterna (Onda Senoidal)
 
-"El teorema de Thevenin establece que un circuito lineal de dos terminales puede remplazarse por un circuito equivalente que consta de una fuente de tensión VTh en serie con un resistor RTh, donde VTh es la tensión de circuito abierto en las terminales y RTh es la entrada o resistencia equivalente en las terminales cuando las fuentes independientes se apagan". pag(139)
+La corriente alterna o senoidal, es el tipo de corriente que se utiliza en la distribución de energia en las ciudades, ya que es la más eficiente y econámica. Con respecto a este tema Sadiku menciona:
 
-![teo](https://user-images.githubusercontent.com/64505672/87502309-e322ff80-c626-11ea-8e00-5b545140122e.PNG)
+"Una corriente senoidal se conoce usualmente como corriente alterna (ca). Esta corriente se invierte a intervalos regulares y tiene valores alternadamente positivo y negativo. Los circuitos excitados por fuentes de corriente o tensión senoidal se llaman circuitos de ca. Una senoide es una señal que tiene la forma de la función seno o coseno" pag 370
 
-EL proceso a seguir para encontrar el circuito equivalente es el siguiente:
+La expresión más general para representar una función senoidal es
 
-1) Se anulan todas las fuentes y se quita la resistencia que actua como terminal, ahora se calcula la resistencia de ese circuito. Esta sera la resistencia de Thevenin.
-2) Se prenden las fuentes y se calcula el voltaje del circuito, considerando que la resistencia que actua como terminal no se toma en cuenta. Este voltaje es el voltaje de Thevenin.
-3) Se reeplantea el circuito tomando como fuente al voltaje de Thevenin, se coloca en serie la resistencia de Thevenin y la resistencia del terminal. El voltaje que cae sobre la resistencia del terminal se lo obtiene facilmente utilizando divisor de voltaje y la corriente se la obtiene aplicando la ley de Ohm. 
+![image](https://user-images.githubusercontent.com/64505672/90580782-502e3580-e18f-11ea-947c-04ef7b2185bc.png)
+
+donde vm es la amplitud del voltaje, w es la frecuencia angular, t es el tiempo y phi es la fase de la onda.
+
+Aqui se puede observar dos ondas con diferente fase.
+
+![image](https://user-images.githubusercontent.com/64505672/90580911-9b484880-e18f-11ea-9947-a62d8edc38fc.png)
+ 
+ Es necesario saber que una onda senoidal tambien puede representarse como una funcion coseonidal considerando un angulo de desfase de 180 grados.
+ Aqui se puede observar las conversiones trigonometricas que pueden ser útiles.
+ 
+ ![image](https://user-images.githubusercontent.com/64505672/90581092-08f47480-e190-11ea-8870-c1b416981f52.png)
 
 
 ## 4. DIAGRAMAS
