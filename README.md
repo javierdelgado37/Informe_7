@@ -4,7 +4,7 @@ AUTORES: DAVID HINOJOSA,
          JULIO ROSERO.
 
 ## 1. PLANTEAMIENTO DEL PROBLEMA
-La mayoria de circuitos, sobretodo en la distribución eléctrica en las ciudades y la forma en la que llega la electricidad en nuestros hogares, el voltaje llega en corriente alterna, es decir que llega con una frecuencia.
+A pesar de que la corriente directa es mas fácil de entender y de realizar cálculos, la mayoria de circuitos, sobretodo en la distribución eléctrica en las ciudades, es decir,  la forma en la que llega la electricidad en nuestros hogares, el voltaje llega en corriente alterna, por su eficiencia y su poco gasto económico.
 
 ## 2. OBJETIVOS
 ### GENERAL
