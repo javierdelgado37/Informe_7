@@ -174,7 +174,7 @@ No coinciden ya que el valor entregado por el osciloscopio corresponde al voltaj
 ## 8. CONCLUSIONES
 -Se observó en el oscilador que una señal senoidal se puede expresar matemáticamente como función del tiempo, donde podemos encontrar las características básicas como el valor eficaz, periodo, frecuencia, valor pico, amplitud y valor promedio. 
 
--Se midió un voltaje rms de 4.85 V en la resistencia Rl, que además se pudo comprobar analíticamente al realizar los calculos respectivos.
+-Se midió un voltaje rms de 4.85 V en la resistencia Rl, que además se pudo comprobar analíticamente al realizar los cálculos respectivos con un error experimental  del 0.23%.
 
 
 ## 9. RECOMENDACIONES
