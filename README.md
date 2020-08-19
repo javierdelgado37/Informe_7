@@ -183,6 +183,8 @@ No coinciden ya que el valor entregado por el osciloscopio corresponde al voltaj
 
 -Hacer las respectivas mediciones con cuidado para no obtener datos errónes y que esto no afecte nuestra practica.
 
+-Comprobar con un programa alternativo de mayor confianza como proteus.
+
 
 
 
