@@ -165,9 +165,9 @@ Coinciden parcialmente. El software indica valores variantes en el multímetro q
 ![0064](https://user-images.githubusercontent.com/66037557/87512435-9ea25e80-c63c-11ea-867b-50dd98a3fd8f.png)
 
 ## 8. CONCLUSIONES
--Se observó en el oscilador que una señal senoidal se puede expresar matemáticamente como función del tiempo, donde podemos encontrar las caracteristicas basicas como, valor eficaz, periodo, frecuencia, valor pico, amplitud y valor promedio. 
+-Se observó en el oscilador que una señal senoidal se puede expresar matemáticamente como función del tiempo, donde podemos encontrar las características básicas como el valor eficaz, periodo, frecuencia, valor pico, amplitud y valor promedio. 
 
--Se cobservo que el voltaje de Thevenin es el mismo que cae sobre la resistencia de 330ohms, y se debe a que se encuentran en paralelo con las terminales sobre las cuales se calculo el voltaje de Thevenin.
+-Se observo que el voltaje de Thevenin es el mismo que cae sobre la resistencia de 330ohms, y se debe a que se encuentran en paralelo con las terminales sobre las cuales se calculo el voltaje de Thevenin.
 
 -Se compróbo que el valor obtenido del voltaje de Thevenin de forma experimental es (5.050V) muy cercano al calculado (5.056v)
 con un error del 0,011%.
@@ -180,6 +180,7 @@ con un error del 0,011%.
 -Armar el circuito de una forma didáctica para que todos puedan entender el funcionamiento del mismo.
 
 -Hacer las respectivas mediciones con cuidado para no obtener datos errónes y que esto no afecte nuestra practica.
+
 
 
 
