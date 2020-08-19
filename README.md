@@ -169,6 +169,7 @@ No coinciden ya que el valor entregado por el osciloscopio corresponde al voltaj
 
 
 ## 7. CRONOGRAMA
+![0005](https://user-images.githubusercontent.com/66037557/90582678-f67c3a00-e193-11ea-8796-7a2c781216f8.png)
 
 
 ## 8. CONCLUSIONES
