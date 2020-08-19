@@ -165,7 +165,7 @@ Coinciden parcialmente. El software indica valores variantes en el multímetro q
 ![0064](https://user-images.githubusercontent.com/66037557/87512435-9ea25e80-c63c-11ea-867b-50dd98a3fd8f.png)
 
 ## 8. CONCLUSIONES
--El voltaje de Thevenin nos permite reducir un circutio complejo a uno mas sencillo de analizar como se pudo comprobar al realizar los calculos.
+-Se observó en el oscilador que una señal senoidal se puede expresar matemáticamente como función del tiempo, donde podemos encontrar las caracteristicas basicas como, valor eficaz, periodo, frecuencia, valor pico, amplitud y valor promedio. 
 
 -Se cobservo que el voltaje de Thevenin es el mismo que cae sobre la resistencia de 330ohms, y se debe a que se encuentran en paralelo con las terminales sobre las cuales se calculo el voltaje de Thevenin.
 
