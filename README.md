@@ -167,7 +167,7 @@ Coinciden parcialmente. El software indica valores variantes en el multímetro q
 ## 8. CONCLUSIONES
 -Se observó en el oscilador que una señal senoidal se puede expresar matemáticamente como función del tiempo, donde podemos encontrar las características básicas como el valor eficaz, periodo, frecuencia, valor pico, amplitud y valor promedio. 
 
--Se midió un voltaje rms de 4.85 V en la resistencia Rl, que ademas se pudo comprobar analiticamente al realizar los calculos respectivos.
+-Se midió un voltaje rms de 4.85 V en la resistencia Rl, que además se pudo comprobar analíticamente al realizar los calculos respectivos.
 
 
 ## 9. RECOMENDACIONES
