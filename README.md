@@ -165,8 +165,7 @@ El voltaje en RL se encuentra en 4.861 V.
 
 4) Compare el voltaje medido en el punto 1) y el obtenido en el punto 3) ¿Coinciden? ¿Por qué? 
 
-No coinciden ya que el valor entregado por el osciloscopio corresponde al voltaje máximo pero no el eficáz, además hasta llegar a la resistencia RL, la corriente pasa por una resistencia de 1000 Ω y al estar en serie, no llega el mismo voltaje.
-
+No coinciden ya que el valor entregado por el osciloscopio corresponde al voltaje máximo pero no el eficáz, mientras que el valor mostrado por el multimetro entrega el volataje rms o volateje eficaz, que es igual al voltaje pico sobre raiz de dos.
 
 ## 7. CRONOGRAMA
 ![0005](https://user-images.githubusercontent.com/66037557/90582678-f67c3a00-e193-11ea-8796-7a2c781216f8.png)
