@@ -103,7 +103,7 @@ E. Oscilosciopio
 ## 6. DESCRIPCION DE PREREQUISITOS Y CONFIGURACION
 
 
-![chrome_cscwVMl5uJ](https://user-images.githubusercontent.com/66037763/90583799-b79bb380-e196-11ea-942b-9e39c3c68db1.png)
+![image](https://user-images.githubusercontent.com/66037763/90594013-08b7a180-e1af-11ea-9043-0a27f2922117.png)
 
 
 Circuito ensamblado y en funcionamiento. Los equipos de medición se encuentran instalados de tal manera que se visualiza en el osciloscopio la forma de la onda mientras que en el multímetro se visualiza el voltaje que pasa por la resistencia en ese instante. 
@@ -113,13 +113,20 @@ PREGUNTAS:
 
 -¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? 
 
-La amplitud de la onda abarca aproximadamente 3 y 1/3 de cuadrados (medidos desde el eje de abscisas).
+
+![chrome_CuoxOw2X9k](https://user-images.githubusercontent.com/66037763/90594420-fb4ee700-e1af-11ea-82ce-ad62abdc7be2.png)
+
+
+La amplitud de la onda abarca 2 cuadrados (medidos desde el eje de abscisas).
+
 
 -¿En qué valor está posicionada la perilla VOLTS/DIV?
 
-![image](https://user-images.githubusercontent.com/66037763/90584790-04808980-e199-11ea-9b35-bb3282caddd8.png)
 
-Esta perilla se suele encontrar en el ajuste vertical de los osciloscopios, sirve para aumentar o disminuir la amplitud de onda y en el presente caso se encuentra en 10 ya que dentro de las instrucciones dictadas se condiciona que existe una amplitud de pico a pico de 20 Vpp (V. peak to peak).
+![image](https://user-images.githubusercontent.com/66037763/90594469-1de10000-e1b0-11ea-998e-21cd5185e6eb.png)
+
+
+Esta perilla se suele encontrar en el ajuste vertical de los osciloscopios, sirve para aumentar o disminuir la amplitud de onda y en el presente caso se encuentra en 5 ya que dentro de las instrucciones dictadas se condiciona que existe una amplitud de pico a pico de 20 Vpp (V. peak to peak).
 
 
 -¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida? 
@@ -130,35 +137,35 @@ Un ciclo completo abarca exactamente 4 cuadrados.
 -¿En qué valor está posicionada la perilla TIME/DIV?
 
 
-![chrome_IEFhnAMj3g](https://user-images.githubusercontent.com/66037763/90586259-5ecf1980-e19c-11ea-9d08-ed1190bab00a.png)
+![image](https://user-images.githubusercontent.com/66037763/90594558-5254bc00-e1b0-11ea-9b4f-40e6fc557c5c.png)
 
 
 El tiempo por división se encuentra en 100 µs, este define las divisiones en la anterior pregunta. 
+
 
 RESULTADOS
 
 1) ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
-La amplitud se encuentra entre 6 y 8 V. Esto es visible ya que dentro de la escala propuesta por el software, existen 5 divisiones de cuadrados en los 10 voltios que se presentan de amplitud. El periodo de la pantalla corresponde a 400 µs, siguiendo el mismo análisis previamente mencionado y al valor en la perilla TIME/DIV (recordar que 1 ms equivale a 1000 µs).
-
-![image](https://user-images.githubusercontent.com/66037763/90585559-be2c2a00-e19a-11ea-8391-305d84e625bf.png)
+La amplitud es 10 V. Esto es visible en las imágenes previamente mostradas ya que una división por cuadro representa 5 V y son dos las que ocupa la amplitud. El periodo de la pantalla corresponde a 400 µs, siguiendo el mismo análisis previamente mencionado y al valor en la perilla TIME/DIV.
 
 2) Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida
 
 f = 2500 Hz
 
-w = 5000 π rad/s
-(revisar hoja de cálculos)
+w = 2500 * 2π = 5000 π rad/s (revisar hoja de cálculos)
 
 3) Con el multímetro digital mida el voltaje de salida en RL:
 
-![Animated GIF-downsized](https://user-images.githubusercontent.com/66037763/90589450-bf158980-e1a3-11ea-8605-fd17fce8c91f.gif)
 
-El voltaje en RL se encuentra entre 6 y 8 (valor máximo) como se observa en el GIF.
+![image](https://user-images.githubusercontent.com/66037763/90595354-4ff36180-e1b2-11ea-942a-f9fa85e6c82d.png)
+
+
+El voltaje en RL se encuentra entre 4.86 V.
 
 4) Compare el voltaje medido en el punto 1) y el obtenido en el punto 2) ¿Coinciden? ¿Por qué? 
 
-Coinciden parcialmente. El software indica valores variantes en el multímetro que no superan el valor indicado en el punto 2).
+No coinciden ya que el valor entregado por el osciloscopio corresponde al voltaje máximo pero no el eficáz, además hasta llegar a la resistencia RL, la corriente pasa por una resistencia de 1000 Ω y al estar en serie, no llega el mismo voltaje.
 
 
 ## 7. CRONOGRAMA
