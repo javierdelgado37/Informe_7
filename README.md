@@ -169,7 +169,7 @@ No coinciden ya que el valor entregado por el osciloscopio corresponde al voltaj
 
 
 ## 7. CRONOGRAMA
-![0064](https://user-images.githubusercontent.com/66037557/87512435-9ea25e80-c63c-11ea-867b-50dd98a3fd8f.png)
+
 
 ## 8. CONCLUSIONES
 -Se observó en el oscilador que una señal senoidal se puede expresar matemáticamente como función del tiempo, donde podemos encontrar las características básicas como el valor eficaz, periodo, frecuencia, valor pico, amplitud y valor promedio. 
