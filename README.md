@@ -46,31 +46,24 @@ Aqui se puede observar dos ondas con diferente fase.
 ## 4. DIAGRAMAS
 
 
-
-![chrome_RB7j3LYyof](https://user-images.githubusercontent.com/66037763/87493730-1196df80-c613-11ea-952b-1663cdba35ba.png)
-
-
-
-El circuito base otorgado en la guía de la práctica, en este se describe de que manera están distribuidos los componentes eléctricos y sus respectivos valores. Facilita de gran manera el reconocer la resistencia que se removerá para aplicar el teorema.
+![chrome_rP150X7ps5](https://user-images.githubusercontent.com/66037763/90582332-0fd0b680-e193-11ea-92eb-9da54c06277f.png)
 
 
 
-![fVZ6vry9mI](https://user-images.githubusercontent.com/66037763/87501391-95a59300-c624-11ea-80c6-b3645eed8ec2.png)
+Circuito base con el que se realiza la respectiva implementación en el software Tinkercad. Se puede observar claramente que la alimentación es de corriente alterna gracias a la simbología utilizada en la fuente, de igual manera la resistencia donde se realizan las respectivas mediciones la cual es denominada RL. 
 
-
-
-En la parte derecha, encerrado en rojo, se encuentra la resistencia que se ignorará al hacer el respectivo análisis por medio del teorema de Thévening. Encerrado en rectángulos se encuentran las fuentes del circuito, las cuales apagaremos para buscar la resistencia de Th. 
 
 
 
 ## 5. LISTA DE COMPONENTES
-A. 2 Fuentes de Voltaje de C.D.
+A. 1 Generador de Funciones
 
 
-![chrome_FxjHlWp3kM](https://user-images.githubusercontent.com/66037763/84236034-96df1f80-aabc-11ea-9159-3d2235bc315b.png)
+![chrome_LUEFWCOVi0](https://user-images.githubusercontent.com/66037763/90581763-a1d7bf80-e191-11ea-9e2b-1254612c8019.png)
 
 
-B. 2 Multímetros Digitales
+
+B. 1 Multímetros Digitales
 
 ![Multimetro](https://user-images.githubusercontent.com/66037763/86204443-252f4a00-bb2d-11ea-8508-0edf4c96af71.png)
 
@@ -81,37 +74,16 @@ C. Resistor de 1 kΩ
 ![chrome_gxIw13c1Q1](https://user-images.githubusercontent.com/66037763/86204259-aafec580-bb2c-11ea-9077-c7547372cc76.png)
 
 
-D. Resistor de 560 Ω
 
-
-![chrome_Ih8MAuGPLY](https://user-images.githubusercontent.com/66037763/87492914-40ac5180-c611-11ea-92f2-1ac0009fb676.png)
-
-
-
-E. Resistor de 4.7 kΩ
+C. Resistor de 2.2 KΩ
 
 
 
-![chrome_U2pfjesE6R](https://user-images.githubusercontent.com/66037763/87492962-59b50280-c611-11ea-9627-ce1b74b186de.png)
+![chrome_jqUtFL63t1](https://user-images.githubusercontent.com/66037763/90581829-d77ca880-e191-11ea-9959-dccbc9f60745.png)
 
 
 
-F. Resistor de 330 Ω
-
-
-
-![chrome_V3LCaMSZyo](https://user-images.githubusercontent.com/66037763/87492992-6fc2c300-c611-11ea-9f3f-0836bb10c9bc.png)
-
-
-
-G. Resistor de 100 Ω
-
-
-![chrome_wn2rPVIKdK](https://user-images.githubusercontent.com/66037763/87493052-908b1880-c611-11ea-9e11-f4636f495820.png)
-
-
-
-H. Protoboard
+D. Protoboard
 
 
 ![chrome_gnkRWUT4Si](https://user-images.githubusercontent.com/66037763/84236208-e9b8d700-aabc-11ea-9985-2e94ef9d6adb.png)
@@ -119,55 +91,71 @@ H. Protoboard
 
 
 
+E. Oscilosciopio
+
+
+
+![chrome_p6hVOC777I](https://user-images.githubusercontent.com/66037763/90581876-f2e7b380-e191-11ea-8fed-2af53bdc9daa.png)
+
+
+
+
 ## 6. DESCRIPCION DE PREREQUISITOS Y CONFIGURACION
 
-Tabla 1.  Medición de voltaje y resistencia de Thévenin
-|                    | Voltaje de Thévenin (Vth) | Resistencia de  Thévenin (Rth) |
-|           ---      |             ---           |                  ---           |     
-|     Calculado      |            5.055 v        |                298.855 Ω       |       
-|      Medido        |            5.06 v         |                299   Ω         |       
 
-Tabla 2.  Medición de voltaje y corriente en el circuito original y aplicando el teorema Thévenin
-| PARÁMETRO ELÉCTRICO |   Circuito Original  |    Circuito Original    |   Circuito equivalente de Thevenin   |      Circuito equivalente de Thevenin       |
-|           ---       |        ---           |             ---         |           ---                        |                        ---                  |
-|           ---       |      Calculado       |      Medido             |              Calculado               |              Medido                         |  
-|      Voltaje        |         3.893 v      |         3.89 v          |             3.893 v                   |                  3.85 v                     |
-|      Corriente      |         3.893 mA     |         3.89 mA         |             3.893 mA                  |                  3.85 mA                    |
+![chrome_cscwVMl5uJ](https://user-images.githubusercontent.com/66037763/90583799-b79bb380-e196-11ea-942b-9e39c3c68db1.png)
 
 
-![vcricnormal](https://user-images.githubusercontent.com/66037763/87504718-d86b6900-c62c-11ea-9211-1636f60011e4.png)
+Circuito ensamblado y en funcionamiento. Los equipos de medición se encuentran instalados de tal manera que se visualiza en el osciloscopio la forma de la onda mientras que en el multímetro se visualiza el voltaje que pasa por la resistencia en ese instante. 
 
 
-Circuito original, se mide en el multímetro el voltaje que fluye por la resistencia 5.
+PREGUNTAS:
+
+-¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? 
+La amplitud de la onda abarca aproximadamente 3 y 1/3 de cuadrados (medidos desde el eje de abscisas).
+
+-¿En qué valor está posicionada la perilla VOLTS/DIV?
+
+![image](https://user-images.githubusercontent.com/66037763/90584790-04808980-e199-11ea-9b35-bb3282caddd8.png)
+
+Esta perilla se suele encontrar en el ajuste vertical de los osciloscopios, sirve para aumentar o disminuir la amplitud de onda y en el presente caso se encuentra en 10 ya que dentro de las instrucciones dictadas se condiciona que existe una amplitud de pico a pico de 20 Vpp (V. peak to peak).
 
 
-![vequivalentethevenin](https://user-images.githubusercontent.com/66037763/87504782-fb961880-c62c-11ea-8af4-d6c13f025f91.png)
+-¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida? 
+Un ciclo completo abarca exactamente 4 cuadrados.
 
 
-El circuito equivalente de Thévenin, se mide en el multímetro el voltaje que fluye por la resistencia.
+-¿En qué valor está posicionada la perilla TIME/DIV?
 
 
-![vthevenin](https://user-images.githubusercontent.com/66037763/87504812-0cdf2500-c62d-11ea-9ce9-7a66b70cc06e.png)
+![chrome_IEFhnAMj3g](https://user-images.githubusercontent.com/66037763/90586259-5ecf1980-e19c-11ea-9d08-ed1190bab00a.png)
 
 
-Circuito removiendo R5, oteniendo de tal manera el voltaje de Thévenin. 
+El tiempo por división se encuentra en 100 µs, este define las divisiones en la anterior pregunta. 
 
 
-![resis](https://user-images.githubusercontent.com/66037763/87504837-1799ba00-c62d-11ea-9f85-d0f8fcb43562.png)
+-. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
+La amplitud se encuentra entre 6 y 8 V. Esto es visible ya que dentro de la escala propuesta por el software, existen 5 divisiones de cuadrados en los 10 voltios que se presentan de amplitud. El periodo de la pantalla corresponde a 400 µs, siguiendo el mismo análisis previamente mencionado y al valor en la perilla TIME/DIV (recordar que 1 ms equivale a 1000 µs).
+
+![image](https://user-images.githubusercontent.com/66037763/90585559-be2c2a00-e19a-11ea-8391-305d84e625bf.png)
+
+RESULTADOS
+
+1) Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
+salida
+f = 2500 Hz
+w = 5k π rad/s
+(revisar hoja de cálculos)
+
+2) Con el multímetro digital mida el voltaje de salida en RL:
+https://media.giphy.com/media/f8hhHypbZ3YY4vvZcc/giphy.gif
 
 
-Resistencia de Thévenin, donde se apagan las fuentes y en el lugar de R5 se pone el multímetro.
-
-Finalmente, los errores respectivos a los resultados calculados son:
-
-
-![chrome_9W8ZZ1xiE7](https://user-images.githubusercontent.com/66037763/87513623-9fd48b00-c63e-11ea-897b-b21f6a18d23a.png)
-
-
+3) Compare el voltaje medido en el punto 1) y el obtenido en el punto 2)
+¿Coinciden? _______ ¿Por qué? 
 
 ## 7. CRONOGRAMA
-![0005](https://user-images.githubusercontent.com/66037557/90582678-f67c3a00-e193-11ea-8796-7a2c781216f8.png)
-
+![0064](https://user-images.githubusercontent.com/66037557/87512435-9ea25e80-c63c-11ea-867b-50dd98a3fd8f.png)
 
 ## 8. CONCLUSIONES
 -El voltaje de Thevenin nos permite reducir un circutio complejo a uno mas sencillo de analizar como se pudo comprobar al realizar los calculos.
