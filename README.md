@@ -146,6 +146,7 @@ La amplitud se encuentra entre 6 y 8 V. Esto es visible ya que dentro de la esca
 2) Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida
 
 f = 2500 Hz
+
 w = 5k π rad/s
 (revisar hoja de cálculos)
 
