@@ -123,10 +123,10 @@ La amplitud de la onda abarca 1 y 1/3 cuadrados (medidos desde el eje de abscisa
 -¿En qué valor está posicionada la perilla VOLTS/DIV?
 
 
-![image](https://user-images.githubusercontent.com/66037763/90597389-9ba80a00-e1b6-11ea-935b-5ff3d3a7ebdf.png)
+![image](https://user-images.githubusercontent.com/66037763/90669637-9202be80-e217-11ea-948a-fac5b891819d.png)
 
 
-Esta perilla se suele encontrar en el ajuste vertical de los osciloscopios, sirve para aumentar o disminuir la amplitud de onda y en el presente caso se encuentra en 5 ya que dentro de las instrucciones dictadas se condiciona que existe una amplitud de pico a pico de 20 Vpp (V. peak to peak).
+Esta perilla se suele encontrar en el ajuste vertical de los osciloscopios, sirve para aumentar o disminuir la amplitud de onda y en el presente caso se encuentra en 5 ya que dentro de las instrucciones dictadas se condiciona que existe una amplitud de pico a pico de 20 Vpp (V. peak to peak). La imágen mostrada indica el voltaje medido en la fuente.
 
 
 -¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida? 
