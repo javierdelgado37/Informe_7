@@ -147,7 +147,7 @@ La amplitud se encuentra entre 6 y 8 V. Esto es visible ya que dentro de la esca
 
 f = 2500 Hz
 
-w = 5k π rad/s
+w = 5000 π rad/s
 (revisar hoja de cálculos)
 
 3) Con el multímetro digital mida el voltaje de salida en RL:
