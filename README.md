@@ -13,9 +13,9 @@ A pesar de que la corriente directa es mas fácil de entender y de realizar cál
 
 ### ESPECÍFICOS
 
-- Realizar una la simulación de un circuito con corriente alterna.
+- Realizar una simulación de un circuito con corriente alterna.
 
-- Observar y analizar el comportamiento de la corriente en el resistor RL del circuito.
+- Observar y analizar el comportamiento del voltaje en el resistor RL del circuito.
 
 - Responder las preguntas de la guía.
 
@@ -167,12 +167,7 @@ Coinciden parcialmente. El software indica valores variantes en el multímetro q
 ## 8. CONCLUSIONES
 -Se observó en el oscilador que una señal senoidal se puede expresar matemáticamente como función del tiempo, donde podemos encontrar las características básicas como el valor eficaz, periodo, frecuencia, valor pico, amplitud y valor promedio. 
 
--Se observo que el voltaje de Thevenin es el mismo que cae sobre la resistencia de 330ohms, y se debe a que se encuentran en paralelo con las terminales sobre las cuales se calculo el voltaje de Thevenin.
-
--Se compróbo que el valor obtenido del voltaje de Thevenin de forma experimental es (5.050V) muy cercano al calculado (5.056v)
-con un error del 0,011%.
-
--Se comprobó que el valor del Voltaje de Thevenin con respecto del medido es del 1.03%, este se debe a que el software no nos permite colocar todas cifras de la resistencia y voltaje medido de Thevenin .
+-Se midió un voltaje rms de 4.85 V en la resistencia Rl, que ademas se pudo comprobar analiticamente al realizar los calculos respectivos.
 
 
 ## 9. RECOMENDACIONES
