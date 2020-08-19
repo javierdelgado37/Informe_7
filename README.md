@@ -109,7 +109,7 @@ E. Oscilosciopio
 Circuito ensamblado y en funcionamiento. 
 
 
-PREGUNTAS:
+PREGUNTAS en (RL o R2):
 
 -¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? 
 
