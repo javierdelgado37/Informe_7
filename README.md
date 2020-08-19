@@ -153,7 +153,7 @@ La amplitud es 10 V. Esto es visible en las imágenes previamente mostradas ya q
 
 f = 2500 Hz
 
-w = 2500 * 2π = 5000 π rad/s (revisar hoja de cálculos)
+w = 5000 π rad/s (revisar hoja de cálculos)
 
 3) Con el multímetro digital mida el voltaje de salida en RL:
 
@@ -161,9 +161,9 @@ w = 2500 * 2π = 5000 π rad/s (revisar hoja de cálculos)
 ![image](https://user-images.githubusercontent.com/66037763/90595735-1e2eca80-e1b3-11ea-9726-6b0046736735.png)
 
 
-El voltaje en RL se encuentra entre 4.86 V.
+El voltaje en RL se encuentra en 4.861 V.
 
-4) Compare el voltaje medido en el punto 1) y el obtenido en el punto 2) ¿Coinciden? ¿Por qué? 
+4) Compare el voltaje medido en el punto 1) y el obtenido en el punto 3) ¿Coinciden? ¿Por qué? 
 
 No coinciden ya que el valor entregado por el osciloscopio corresponde al voltaje máximo pero no el eficáz, además hasta llegar a la resistencia RL, la corriente pasa por una resistencia de 1000 Ω y al estar en serie, no llega el mismo voltaje.
 
