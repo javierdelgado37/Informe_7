@@ -106,7 +106,7 @@ E. Oscilosciopio
 ![image](https://user-images.githubusercontent.com/66037763/90594013-08b7a180-e1af-11ea-9043-0a27f2922117.png)
 
 
-Circuito ensamblado y en funcionamiento. Los equipos de medición se encuentran instalados de tal manera que se visualiza en el osciloscopio la forma de la onda mientras que en el multímetro se visualiza el voltaje que pasa por la resistencia en ese instante. 
+Circuito ensamblado y en funcionamiento. 
 
 
 PREGUNTAS:
@@ -158,7 +158,7 @@ w = 2500 * 2π = 5000 π rad/s (revisar hoja de cálculos)
 3) Con el multímetro digital mida el voltaje de salida en RL:
 
 
-![image](https://user-images.githubusercontent.com/66037763/90595354-4ff36180-e1b2-11ea-942a-f9fa85e6c82d.png)
+![image](https://user-images.githubusercontent.com/66037763/90595735-1e2eca80-e1b3-11ea-9726-6b0046736735.png)
 
 
 El voltaje en RL se encuentra entre 4.86 V.
